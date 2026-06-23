@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/static/search.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Results for {{.Search}}</h1>
+            <div class="navigation-artists">
+                <p class="result-number">{{ len .Artists}} artists found</p>
+                <a class="artists-navigation" href="/artists">Back to Artists</a>
+            </div>
+        </div>
+
+        {{if .Artists}}
+        <div class="result-grid">
+            {{range .Artists}}
+            <div class="artist-card">
+                <img src="{{.Image}}" alt="{{.Name}}">
+                <h2>{{.Name}}</h2>
+                <p><strong>First Album</strong>{{.FirstAlbum}}</p>
+                <a href="/artists/{{.Id}}">Personal Details</a>
+            </div>
+            {{end}}
+        </div>
+        {{else}}
+        <p>No artists found for "{{.Search}}"</p>
+        {{end}}
+    </div>
+
+</body>
+
+</html>

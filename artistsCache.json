@@ -1,0 +1,4739 @@
+[
+ {
+  "id": 1,
+  "image": "https://groupietrackers.herokuapp.com/api/images/queen.jpeg",
+  "name": "Queen",
+  "members": [
+   "Freddie Mercury",
+   "Brian May",
+   "John Daecon",
+   "Roger Meddows-Taylor",
+   "Mike Grose",
+   "Barry Mitchell",
+   "Doug Fogie"
+  ],
+  "creationDate": 1970,
+  "firstAlbum": "14-12-1973",
+  "DatesLocations": {
+   "dunedin-new_zealand": [
+    "10-02-2020"
+   ],
+   "georgia-usa": [
+    "22-08-2019"
+   ],
+   "los_angeles-usa": [
+    "20-08-2019"
+   ],
+   "nagoya-japan": [
+    "30-01-2019"
+   ],
+   "north_carolina-usa": [
+    "23-08-2019"
+   ],
+   "osaka-japan": [
+    "28-01-2020"
+   ],
+   "penrose-new_zealand": [
+    "07-02-2020"
+   ],
+   "saitama-japan": [
+    "26-01-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "saitama-japan",
+    "Lat": "35.9754168",
+    "Lon": "139.4160114",
+    "Dates": [
+     "26-01-2020"
+    ]
+   },
+   {
+    "Name": "georgia-usa",
+    "Lat": "32.3293809",
+    "Lon": "-83.1137366",
+    "Dates": [
+     "22-08-2019"
+    ]
+   },
+   {
+    "Name": "los_angeles-usa",
+    "Lat": "52.5362296",
+    "Lon": "13.5688341",
+    "Dates": [
+     "20-08-2019"
+    ]
+   },
+   {
+    "Name": "nagoya-japan",
+    "Lat": "36.1251825",
+    "Lon": "-79.9046807",
+    "Dates": [
+     "30-01-2019"
+    ]
+   },
+   {
+    "Name": "north_carolina-usa",
+    "Lat": "35.6729639",
+    "Lon": "-79.0392919",
+    "Dates": [
+     "23-08-2019"
+    ]
+   },
+   {
+    "Name": "penrose-new_zealand",
+    "Lat": "-36.9111443",
+    "Lon": "174.8147813",
+    "Dates": [
+     "07-02-2020"
+    ]
+   },
+   {
+    "Name": "osaka-japan",
+    "Lat": "40.7687251",
+    "Lon": "-111.8889466",
+    "Dates": [
+     "28-01-2020"
+    ]
+   },
+   {
+    "Name": "dunedin-new_zealand",
+    "Lat": "-45.8740984",
+    "Lon": "170.5035755",
+    "Dates": [
+     "10-02-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "image": "https://groupietrackers.herokuapp.com/api/images/soja.jpeg",
+  "name": "SOJA",
+  "members": [
+   "Jacob Hemphill",
+   "Bob Jefferson",
+   "Ryan \"Byrd\" Berty",
+   "Ken Brownell",
+   "Patrick O'Shea",
+   "Hellman Escorcia",
+   "Rafael Rodriguez",
+   "Trevor Young"
+  ],
+  "creationDate": 1997,
+  "firstAlbum": "05-06-2002",
+  "DatesLocations": {
+   "noumea-new_caledonia": [
+    "15-11-2019"
+   ],
+   "papeete-french_polynesia": [
+    "16-11-2019"
+   ],
+   "playa_del_carmen-mexico": [
+    "05-12-2019",
+    "06-12-2019",
+    "07-12-2019",
+    "08-12-2019",
+    "09-12-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "playa_del_carmen-mexico",
+    "Lat": "20.6461095",
+    "Lon": "-87.0809021",
+    "Dates": [
+     "05-12-2019",
+     "06-12-2019",
+     "07-12-2019",
+     "08-12-2019",
+     "09-12-2019"
+    ]
+   },
+   {
+    "Name": "noumea-new_caledonia",
+    "Lat": "-22.2745264",
+    "Lon": "166.4424190",
+    "Dates": [
+     "15-11-2019"
+    ]
+   },
+   {
+    "Name": "papeete-french_polynesia",
+    "Lat": "-17.5373835",
+    "Lon": "-149.5659964",
+    "Dates": [
+     "16-11-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 3,
+  "image": "https://groupietrackers.herokuapp.com/api/images/pinkfloyd.jpeg",
+  "name": "Pink Floyd",
+  "members": [
+   "David Gilmour",
+   "Syd Barrett",
+   "Roger Waters",
+   "Richard Wright",
+   "Nick Manson",
+   "Bob Klose"
+  ],
+  "creationDate": 1965,
+  "firstAlbum": "05-08-1967",
+  "DatesLocations": {
+   "lausanne-switzerland": [
+    "25-09-1994"
+   ],
+   "london-uk": [
+    "10-05-2007",
+    "02-07-2005",
+    "29-10-1994",
+    "28-10-1994",
+    "27-10-1994",
+    "26-10-1994",
+    "23-10-1994",
+    "22-10-1994",
+    "21-10-1994",
+    "20-10-1994",
+    "19-10-1994",
+    "17-10-1994",
+    "16-10-1994",
+    "15-10-1994",
+    "14-10-1994",
+    "13-10-1994",
+    "12-10-1994"
+   ],
+   "lyon-france": [
+    "23-09-1994"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "lyon-france",
+    "Lat": "45.7578137",
+    "Lon": "4.8320114",
+    "Dates": [
+     "23-09-1994"
+    ]
+   },
+   {
+    "Name": "lausanne-switzerland",
+    "Lat": "46.5218269",
+    "Lon": "6.6327025",
+    "Dates": [
+     "25-09-1994"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "10-05-2007",
+     "02-07-2005",
+     "29-10-1994",
+     "28-10-1994",
+     "27-10-1994",
+     "26-10-1994",
+     "23-10-1994",
+     "22-10-1994",
+     "21-10-1994",
+     "20-10-1994",
+     "19-10-1994",
+     "17-10-1994",
+     "16-10-1994",
+     "15-10-1994",
+     "14-10-1994",
+     "13-10-1994",
+     "12-10-1994"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 4,
+  "image": "https://groupietrackers.herokuapp.com/api/images/scorpions.jpeg",
+  "name": "Scorpions",
+  "members": [
+   "Klaus Meine",
+   "Rudolf Schenker",
+   "Matthias Jabs",
+   "Pawel Maciwoda",
+   "Mikkey Dee"
+  ],
+  "creationDate": 1965,
+  "firstAlbum": "21-04-1979",
+  "DatesLocations": {
+   "auckland-new_zealand": [
+    "27-02-2020"
+   ],
+   "bratislava-slovakia": [
+    "20-11-2019"
+   ],
+   "budapest-hungary": [
+    "18-11-2019"
+   ],
+   "minsk-belarus": [
+    "15-11-2019"
+   ],
+   "new_south_wales-australia": [
+    "22-02-2020"
+   ],
+   "queensland-australia": [
+    "24-02-2020"
+   ],
+   "victoria-australia": [
+    "19-02-2020"
+   ],
+   "yogyakarta-indonesia": [
+    "01-03-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "budapest-hungary",
+    "Lat": "47.4813896",
+    "Lon": "19.1457723",
+    "Dates": [
+     "18-11-2019"
+    ]
+   },
+   {
+    "Name": "minsk-belarus",
+    "Lat": "53.9024716",
+    "Lon": "27.5618225",
+    "Dates": [
+     "15-11-2019"
+    ]
+   },
+   {
+    "Name": "victoria-australia",
+    "Lat": "-36.5986096",
+    "Lon": "144.6780052",
+    "Dates": [
+     "19-02-2020"
+    ]
+   },
+   {
+    "Name": "yogyakarta-indonesia",
+    "Lat": "-7.7953473",
+    "Lon": "110.3672845",
+    "Dates": [
+     "01-03-2019"
+    ]
+   },
+   {
+    "Name": "bratislava-slovakia",
+    "Lat": "48.1516988",
+    "Lon": "17.1093063",
+    "Dates": [
+     "20-11-2019"
+    ]
+   },
+   {
+    "Name": "auckland-new_zealand",
+    "Lat": "-36.8520950",
+    "Lon": "174.7631803",
+    "Dates": [
+     "27-02-2020"
+    ]
+   },
+   {
+    "Name": "new_south_wales-australia",
+    "Lat": "-32.1629515",
+    "Lon": "147.0320566",
+    "Dates": [
+     "22-02-2020"
+    ]
+   },
+   {
+    "Name": "queensland-australia",
+    "Lat": "-22.1646782",
+    "Lon": "144.5844903",
+    "Dates": [
+     "24-02-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 5,
+  "image": "https://groupietrackers.herokuapp.com/api/images/xxxtentacion.jpeg",
+  "name": "XXXTentacion",
+  "members": [
+   "Jahseh Dwayne Ricardo Onfroy"
+  ],
+  "creationDate": 2013,
+  "firstAlbum": "07-09-2017",
+  "DatesLocations": {
+   "california-usa": [
+    "16-12-2017",
+    "17-12-2017",
+    "21-10-2017",
+    "22-10-2017",
+    "13-08-2017",
+    "12-08-2017"
+   ],
+   "georgia-usa": [
+    "01-08-2017"
+   ],
+   "nevada-usa": [
+    "04-08-2017"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "nevada-usa",
+    "Lat": "39.5158825",
+    "Lon": "-116.8537220",
+    "Dates": [
+     "04-08-2017"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "16-12-2017",
+     "17-12-2017",
+     "21-10-2017",
+     "22-10-2017",
+     "13-08-2017",
+     "12-08-2017"
+    ]
+   },
+   {
+    "Name": "georgia-usa",
+    "Lat": "32.3293809",
+    "Lon": "-83.1137366",
+    "Dates": [
+     "01-08-2017"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 6,
+  "image": "https://groupietrackers.herokuapp.com/api/images/macmiller.jpeg",
+  "name": "Mac Miller",
+  "members": [
+   "Malcolm James McCormick"
+  ],
+  "creationDate": 2007,
+  "firstAlbum": "29-06-2013",
+  "DatesLocations": {
+   "california-usa": [
+    "28-04-2018",
+    "29-04-2018"
+   ],
+   "san_isidro-argentina": [
+    "16-03-2018",
+    "17-03-2018",
+    "18-03-2018"
+   ],
+   "sao_paulo-brazil": [
+    "23-03-2018",
+    "24-03-2018",
+    "25-03-2018"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "-23.5506507",
+    "Lon": "-46.6333824",
+    "Dates": [
+     "23-03-2018",
+     "24-03-2018",
+     "25-03-2018"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "28-04-2018",
+     "29-04-2018"
+    ]
+   },
+   {
+    "Name": "san_isidro-argentina",
+    "Lat": "-34.4739792",
+    "Lon": "-58.5264866",
+    "Dates": [
+     "16-03-2018",
+     "17-03-2018",
+     "18-03-2018"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 7,
+  "image": "https://groupietrackers.herokuapp.com/api/images/joynerlucas.jpeg",
+  "name": "Joyner Lucas",
+  "members": [
+   "Gary Maurice Lucas Jr."
+  ],
+  "creationDate": 2007,
+  "firstAlbum": "13-05-2011",
+  "DatesLocations": {
+   "arizona-usa": [
+    "08-10-2019"
+   ],
+   "california-usa": [
+    "19-10-2019",
+    "18-10-2019",
+    "17-10-2019",
+    "15-10-2019",
+    "12-10-2019",
+    "11-10-2019"
+   ],
+   "texas-usa": [
+    "06-10-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "texas-usa",
+    "Lat": "31.2638905",
+    "Lon": "-98.5456116",
+    "Dates": [
+     "06-10-2019"
+    ]
+   },
+   {
+    "Name": "arizona-usa",
+    "Lat": "34.3953420",
+    "Lon": "-111.7632750",
+    "Dates": [
+     "08-10-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "19-10-2019",
+     "18-10-2019",
+     "17-10-2019",
+     "15-10-2019",
+     "12-10-2019",
+     "11-10-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 8,
+  "image": "https://groupietrackers.herokuapp.com/api/images/kencricklamar.jpeg",
+  "name": "Kendrick Lamar",
+  "members": [
+   "Kendrick Lamar Duckworth"
+  ],
+  "creationDate": 2004,
+  "firstAlbum": "03-11-2012",
+  "DatesLocations": {
+   "bilbao-spain": [
+    "09-07-2020",
+    "10-07-2020",
+    "11-07-2020"
+   ],
+   "bogota-colombia": [
+    "05-04-2019",
+    "06-04-2019",
+    "07-04-2019"
+   ],
+   "georgia-usa": [
+    "08-06-2019"
+   ],
+   "lisbon-portugal": [
+    "09-07-2020",
+    "10-07-2020",
+    "11-07-2020"
+   ],
+   "sao_paulo-brazil": [
+    "05-04-2019",
+    "06-04-2019",
+    "07-04-2019"
+   ],
+   "stockholm-sweden": [
+    "26-06-2020",
+    "27-06-2020",
+    "28-06-2020"
+   ],
+   "werchter-belgium": [
+    "04-07-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "stockholm-sweden",
+    "Lat": "59.3251172",
+    "Lon": "18.0710935",
+    "Dates": [
+     "26-06-2020",
+     "27-06-2020",
+     "28-06-2020"
+    ]
+   },
+   {
+    "Name": "georgia-usa",
+    "Lat": "32.3293809",
+    "Lon": "-83.1137366",
+    "Dates": [
+     "08-06-2019"
+    ]
+   },
+   {
+    "Name": "lisbon-portugal",
+    "Lat": "38.7077507",
+    "Lon": "-9.1365919",
+    "Dates": [
+     "09-07-2020",
+     "10-07-2020",
+     "11-07-2020"
+    ]
+   },
+   {
+    "Name": "bogota-colombia",
+    "Lat": "4.6533817",
+    "Lon": "-74.0836331",
+    "Dates": [
+     "05-04-2019",
+     "06-04-2019",
+     "07-04-2019"
+    ]
+   },
+   {
+    "Name": "werchter-belgium",
+    "Lat": "50.9705840",
+    "Lon": "4.6937963",
+    "Dates": [
+     "04-07-2020"
+    ]
+   },
+   {
+    "Name": "bilbao-spain",
+    "Lat": "43.2630018",
+    "Lon": "-2.9350039",
+    "Dates": [
+     "09-07-2020",
+     "10-07-2020",
+     "11-07-2020"
+    ]
+   },
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "-23.5506507",
+    "Lon": "-46.6333824",
+    "Dates": [
+     "05-04-2019",
+     "06-04-2019",
+     "07-04-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 9,
+  "image": "https://groupietrackers.herokuapp.com/api/images/acdc.jpeg",
+  "name": "ACDC",
+  "members": [
+   "Angus Young",
+   "Chris Slade",
+   "Stevie Young",
+   "Axl Rose"
+  ],
+  "creationDate": 1973,
+  "firstAlbum": "11-05-1977",
+  "DatesLocations": {
+   "aarhus-denmark": [
+    "12-06-2016"
+   ],
+   "dusseldorf-germany": [
+    "15-06-2016"
+   ],
+   "manchester-uk": [
+    "09-06-2016"
+   ],
+   "new_york-usa": [
+    "14-09-2016",
+    "11-09-2016"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "aarhus-denmark",
+    "Lat": "56.1496278",
+    "Lon": "10.2134046",
+    "Dates": [
+     "12-06-2016"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "40.7127281",
+    "Lon": "-74.0060152",
+    "Dates": [
+     "14-09-2016",
+     "11-09-2016"
+    ]
+   },
+   {
+    "Name": "dusseldorf-germany",
+    "Lat": "51.2254018",
+    "Lon": "6.7763137",
+    "Dates": [
+     "15-06-2016"
+    ]
+   },
+   {
+    "Name": "manchester-uk",
+    "Lat": "53.4424618",
+    "Lon": "-2.2324547",
+    "Dates": [
+     "09-06-2016"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 10,
+  "image": "https://groupietrackers.herokuapp.com/api/images/pearljam.jpeg",
+  "name": "Pearl Jam",
+  "members": [
+   "Eddie Vedder",
+   "Mike McCready",
+   "Stone Gossard",
+   "Jeff Ament",
+   "Matt Cameron"
+  ],
+  "creationDate": 1990,
+  "firstAlbum": "03-07-1992",
+  "DatesLocations": {
+   "berlin-germany": [
+    "25-06-2020"
+   ],
+   "copenhagen-denmark": [
+    "29-06-2020"
+   ],
+   "frankfurt-germany": [
+    "23-06-2020"
+   ],
+   "stockholm-sweden": [
+    "26-06-2020",
+    "27-06-2020",
+    "28-06-2020"
+   ],
+   "werchter-belgium": [
+    "02-07-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "werchter-belgium",
+    "Lat": "50.9705840",
+    "Lon": "4.6937963",
+    "Dates": [
+     "02-07-2020"
+    ]
+   },
+   {
+    "Name": "frankfurt-germany",
+    "Lat": "50.1106444",
+    "Lon": "8.6820917",
+    "Dates": [
+     "23-06-2020"
+    ]
+   },
+   {
+    "Name": "stockholm-sweden",
+    "Lat": "59.3251172",
+    "Lon": "18.0710935",
+    "Dates": [
+     "26-06-2020",
+     "27-06-2020",
+     "28-06-2020"
+    ]
+   },
+   {
+    "Name": "berlin-germany",
+    "Lat": "52.5173885",
+    "Lon": "13.3951309",
+    "Dates": [
+     "25-06-2020"
+    ]
+   },
+   {
+    "Name": "copenhagen-denmark",
+    "Lat": "55.6867243",
+    "Lon": "12.5700724",
+    "Dates": [
+     "29-06-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 11,
+  "image": "https://groupietrackers.herokuapp.com/api/images/katyperry.jpeg",
+  "name": "Katy Perry",
+  "members": [
+   "Katheryn Elizabeth Hudson"
+  ],
+  "creationDate": 2001,
+  "firstAlbum": "04-10-2008",
+  "DatesLocations": {
+   "california-usa": [
+    "06-12-2019"
+   ],
+   "doha-qatar": [
+    "15-12-2019"
+   ],
+   "illinois-usa": [
+    "07-12-2019"
+   ],
+   "minnesota-usa": [
+    "09-12-2019"
+   ],
+   "mumbai-india": [
+    "16-11-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "doha-qatar",
+    "Lat": "25.3108807",
+    "Lon": "51.5081812",
+    "Dates": [
+     "15-12-2019"
+    ]
+   },
+   {
+    "Name": "mumbai-india",
+    "Lat": "19.0549990",
+    "Lon": "72.8692035",
+    "Dates": [
+     "16-11-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "06-12-2019"
+    ]
+   },
+   {
+    "Name": "illinois-usa",
+    "Lat": "40.0796606",
+    "Lon": "-89.4337288",
+    "Dates": [
+     "07-12-2019"
+    ]
+   },
+   {
+    "Name": "minnesota-usa",
+    "Lat": "45.9896587",
+    "Lon": "-94.6113288",
+    "Dates": [
+     "09-12-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 12,
+  "image": "https://groupietrackers.herokuapp.com/api/images/rihanna.jpeg",
+  "name": "Rihanna",
+  "members": [
+   "Robyn Rihanna Fenty"
+  ],
+  "creationDate": 2003,
+  "firstAlbum": "10-09-2005",
+  "DatesLocations": {
+   "abu_dhabi-united_arab_emirates": [
+    "27-11-2016"
+   ],
+   "new_york-usa": [
+    "24-09-2016"
+   ],
+   "pennsylvania-usa": [
+    "03-09-2016",
+    "04-09-2016"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "pennsylvania-usa",
+    "Lat": "40.9699889",
+    "Lon": "-77.7278831",
+    "Dates": [
+     "03-09-2016",
+     "04-09-2016"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "40.7127281",
+    "Lon": "-74.0060152",
+    "Dates": [
+     "24-09-2016"
+    ]
+   },
+   {
+    "Name": "abu_dhabi-united_arab_emirates",
+    "Lat": "24.4538352",
+    "Lon": "54.3774014",
+    "Dates": [
+     "27-11-2016"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 13,
+  "image": "https://groupietrackers.herokuapp.com/api/images/genesis.jpeg",
+  "name": "Genesis",
+  "members": [
+   "Mike Rutherford",
+   "Tony Banks",
+   "Phil Collins",
+   "Chester Thompson",
+   "Daryl Stuermer"
+  ],
+  "creationDate": 1967,
+  "firstAlbum": "14-10-1972",
+  "DatesLocations": {
+   "illinois-usa": [
+    "06-09-2012"
+   ],
+   "merkers-germany": [
+    "29-06-2012",
+    "30-06-2012"
+   ],
+   "westcliff_on_sea-uk": [
+    "07-10-2012"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "westcliff_on_sea-uk",
+    "Lat": "51.5428858",
+    "Lon": "0.6859213",
+    "Dates": [
+     "07-10-2012"
+    ]
+   },
+   {
+    "Name": "merkers-germany",
+    "Lat": "50.8241612",
+    "Lon": "10.1176283",
+    "Dates": [
+     "29-06-2012",
+     "30-06-2012"
+    ]
+   },
+   {
+    "Name": "illinois-usa",
+    "Lat": "40.0796606",
+    "Lon": "-89.4337288",
+    "Dates": [
+     "06-09-2012"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 14,
+  "image": "https://groupietrackers.herokuapp.com/api/images/philcollins.jpeg",
+  "name": "Phil Collins",
+  "members": [
+   "Phil Collins"
+  ],
+  "creationDate": 1966,
+  "firstAlbum": "21-02-1981",
+  "DatesLocations": {
+   "arizona-usa": [
+    "18-10-2019"
+   ],
+   "california-usa": [
+    "17-10-2019"
+   ],
+   "nevada-usa": [
+    "19-10-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "nevada-usa",
+    "Lat": "39.5158825",
+    "Lon": "-116.8537220",
+    "Dates": [
+     "19-10-2019"
+    ]
+   },
+   {
+    "Name": "arizona-usa",
+    "Lat": "34.3953420",
+    "Lon": "-111.7632750",
+    "Dates": [
+     "18-10-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "17-10-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 15,
+  "image": "https://groupietrackers.herokuapp.com/api/images/ledzeppelin.jpeg",
+  "name": "Led Zeppelin",
+  "members": [
+   "Jimmy Page",
+   "John Paul Jones",
+   "Robert Plant",
+   "John Bonham"
+  ],
+  "creationDate": 1968,
+  "firstAlbum": "12-04-1969",
+  "DatesLocations": {
+   "london-uk": [
+    "10-12-2007",
+    "15-03-2003"
+   ],
+   "maine-usa": [
+    "17-04-1994"
+   ],
+   "new_york-usa": [
+    "12-01-1995"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "new_york-usa",
+    "Lat": "40.7127281",
+    "Lon": "-74.0060152",
+    "Dates": [
+     "12-01-1995"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "10-12-2007",
+     "15-03-2003"
+    ]
+   },
+   {
+    "Name": "maine-usa",
+    "Lat": "45.7090970",
+    "Lon": "-68.8590201",
+    "Dates": [
+     "17-04-1994"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 16,
+  "image": "https://groupietrackers.herokuapp.com/api/images/jimihendrix.jpeg",
+  "name": "The Jimi Hendrix Experience",
+  "members": [
+   "Jimi Hendrix",
+   "Mitch Mitchell",
+   "Noel Redding",
+   "Billy Cox"
+  ],
+  "creationDate": 1966,
+  "firstAlbum": "27-05-1967",
+  "DatesLocations": {
+   "aarhus-denmark": [
+    "02-09-1970"
+   ],
+   "berlin-germany": [
+    "04-09-1970"
+   ],
+   "copenhagen-denmark": [
+    "03-09-1970"
+   ],
+   "gothenburg-sweden": [
+    "01-09-1970"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "aarhus-denmark",
+    "Lat": "56.1496278",
+    "Lon": "10.2134046",
+    "Dates": [
+     "02-09-1970"
+    ]
+   },
+   {
+    "Name": "berlin-germany",
+    "Lat": "52.5173885",
+    "Lon": "13.3951309",
+    "Dates": [
+     "04-09-1970"
+    ]
+   },
+   {
+    "Name": "copenhagen-denmark",
+    "Lat": "55.6867243",
+    "Lon": "12.5700724",
+    "Dates": [
+     "03-09-1970"
+    ]
+   },
+   {
+    "Name": "gothenburg-sweden",
+    "Lat": "57.7072326",
+    "Lon": "11.9670171",
+    "Dates": [
+     "01-09-1970"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 17,
+  "image": "https://groupietrackers.herokuapp.com/api/images/beegees.jpeg",
+  "name": "Bee Gees",
+  "members": [
+   "Barry Gib",
+   "Robin Gibb",
+   "Maurice Gibb"
+  ],
+  "creationDate": 1958,
+  "firstAlbum": "12-08-1967",
+  "DatesLocations": {
+   "florida-usa": [
+    "05-10-1979",
+    "04-10-1979"
+   ],
+   "north_carolina-usa": [
+    "02-10-1979"
+   ],
+   "south_carolina-usa": [
+    "03-10-1979"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "north_carolina-usa",
+    "Lat": "35.6729639",
+    "Lon": "-79.0392919",
+    "Dates": [
+     "02-10-1979"
+    ]
+   },
+   {
+    "Name": "south_carolina-usa",
+    "Lat": "33.6874388",
+    "Lon": "-80.4363743",
+    "Dates": [
+     "03-10-1979"
+    ]
+   },
+   {
+    "Name": "florida-usa",
+    "Lat": "27.7567667",
+    "Lon": "-81.4639835",
+    "Dates": [
+     "05-10-1979",
+     "04-10-1979"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 18,
+  "image": "https://groupietrackers.herokuapp.com/api/images/deeppurple.jpeg",
+  "name": "Deep Purple",
+  "members": [
+   "Ian Paice",
+   "Ian Gillan",
+   "Roger Glover",
+   "Steve Morse",
+   "Don Airey"
+  ],
+  "creationDate": 1968,
+  "firstAlbum": "24-01-1970",
+  "DatesLocations": {
+   "boulogne_billancourt-france": [
+    "30-06-2020"
+   ],
+   "freyming_merlebach-france": [
+    "09-12-2019"
+   ],
+   "hamburg-germany": [
+    "24-06-2020"
+   ],
+   "klagenfurt-austria": [
+    "01-12-2019"
+   ],
+   "nimes-france": [
+    "01-07-2020"
+   ],
+   "ostrava-czechia": [
+    "04-12-2019"
+   ],
+   "pagney_derriere_barine-france": [
+    "25-01-2020"
+   ],
+   "sion-switzerland": [
+    "08-07-2020",
+    "09-07-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "nimes-france",
+    "Lat": "43.8374249",
+    "Lon": "4.3600687",
+    "Dates": [
+     "01-07-2020"
+    ]
+   },
+   {
+    "Name": "ostrava-czechia",
+    "Lat": "49.8349139",
+    "Lon": "18.2820084",
+    "Dates": [
+     "04-12-2019"
+    ]
+   },
+   {
+    "Name": "pagney_derriere_barine-france",
+    "Lat": "48.6943000",
+    "Lon": "5.8447000",
+    "Dates": [
+     "25-01-2020"
+    ]
+   },
+   {
+    "Name": "sion-switzerland",
+    "Lat": "46.2311749",
+    "Lon": "7.3588795",
+    "Dates": [
+     "08-07-2020",
+     "09-07-2020"
+    ]
+   },
+   {
+    "Name": "boulogne_billancourt-france",
+    "Lat": "48.8356649",
+    "Lon": "2.2402060",
+    "Dates": [
+     "30-06-2020"
+    ]
+   },
+   {
+    "Name": "freyming_merlebach-france",
+    "Lat": "49.1469437",
+    "Lon": "6.8184829",
+    "Dates": [
+     "09-12-2019"
+    ]
+   },
+   {
+    "Name": "hamburg-germany",
+    "Lat": "53.5501721",
+    "Lon": "10.0013165",
+    "Dates": [
+     "24-06-2020"
+    ]
+   },
+   {
+    "Name": "klagenfurt-austria",
+    "Lat": "46.6239430",
+    "Lon": "14.3075976",
+    "Dates": [
+     "01-12-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 19,
+  "image": "https://groupietrackers.herokuapp.com/api/images/aerosmith.jpeg",
+  "name": "Aerosmith",
+  "members": [
+   "Steven Tyler",
+   "Tom Hamilton",
+   "Joey Kramer",
+   "Joe Perry",
+   "Brad Whitford"
+  ],
+  "creationDate": 1970,
+  "firstAlbum": "05-09-1987",
+  "DatesLocations": {
+   "london-uk": [
+    "15-07-2020"
+   ],
+   "manchester-uk": [
+    "18-07-2020"
+   ],
+   "nevada-usa": [
+    "29-01-2020",
+    "31-01-2020",
+    "03-02-2020",
+    "05-02-2020",
+    "08-02-2020",
+    "10-02-2020",
+    "13-02-2020",
+    "15-02-2020",
+    "20-05-2020",
+    "23-05-2020",
+    "25-05-2020",
+    "28-05-2020",
+    "30-05-2020",
+    "02-06-2020",
+    "04-06-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "nevada-usa",
+    "Lat": "39.5158825",
+    "Lon": "-116.8537220",
+    "Dates": [
+     "29-01-2020",
+     "31-01-2020",
+     "03-02-2020",
+     "05-02-2020",
+     "08-02-2020",
+     "10-02-2020",
+     "13-02-2020",
+     "15-02-2020",
+     "20-05-2020",
+     "23-05-2020",
+     "25-05-2020",
+     "28-05-2020",
+     "30-05-2020",
+     "02-06-2020",
+     "04-06-2020"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "15-07-2020"
+    ]
+   },
+   {
+    "Name": "manchester-uk",
+    "Lat": "53.4424618",
+    "Lon": "-2.2324547",
+    "Dates": [
+     "18-07-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 20,
+  "image": "https://groupietrackers.herokuapp.com/api/images/direstraits.jpeg",
+  "name": "Dire Straits",
+  "members": [
+   "Mark Knopfler",
+   "David Knopfler",
+   "John Illsley",
+   "Pick Withers"
+  ],
+  "creationDate": 1977,
+  "firstAlbum": "22-07-1978",
+  "DatesLocations": {
+   "barcelona-spain": [
+    "04-10-1992",
+    "03-10-1992",
+    "02-10-1992"
+   ],
+   "madrid-spain": [
+    "07-10-1992",
+    "06-10-1992"
+   ],
+   "zaragoza-spain": [
+    "09-10-1992"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "zaragoza-spain",
+    "Lat": "41.6915847",
+    "Lon": "-0.9101268",
+    "Dates": [
+     "09-10-1992"
+    ]
+   },
+   {
+    "Name": "barcelona-spain",
+    "Lat": "41.3825802",
+    "Lon": "2.1770730",
+    "Dates": [
+     "04-10-1992",
+     "03-10-1992",
+     "02-10-1992"
+    ]
+   },
+   {
+    "Name": "madrid-spain",
+    "Lat": "40.4167820",
+    "Lon": "-3.7035070",
+    "Dates": [
+     "07-10-1992",
+     "06-10-1992"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 21,
+  "image": "https://groupietrackers.herokuapp.com/api/images/mamonasassassinas.jpeg",
+  "name": "Mamonas Assassinas",
+  "members": [
+   "Dinho",
+   "Bento Hinoto",
+   "Júlio Rasec",
+   "Sérgio Reoli",
+   "Samuel Reis de Oliveira"
+  ],
+  "creationDate": 1995,
+  "firstAlbum": "23-06-1995",
+  "DatesLocations": {
+   "recife-brazil": [
+    "28-12-1995"
+   ],
+   "rio_de_janeiro-brazil": [
+    "10-02-1996"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "rio_de_janeiro-brazil",
+    "Lat": "-22.9110137",
+    "Lon": "-43.2093727",
+    "Dates": [
+     "10-02-1996"
+    ]
+   },
+   {
+    "Name": "recife-brazil",
+    "Lat": "-8.0584933",
+    "Lon": "-34.8848193",
+    "Dates": [
+     "28-12-1995"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 22,
+  "image": "https://groupietrackers.herokuapp.com/api/images/30.jpeg",
+  "name": "Thirty Seconds to Mars",
+  "members": [
+   "Jared Leto",
+   "Shannon Leto",
+   "Tomo Miličević",
+   "Matt Wachter",
+   "Solon Bixler"
+  ],
+  "creationDate": 1998,
+  "firstAlbum": "27-06-2002",
+  "DatesLocations": {
+   "amsterdam-netherlands": [
+    "06-08-2019"
+   ],
+   "budapest-hungary": [
+    "23-07-2019"
+   ],
+   "burriana-spain": [
+    "03-08-2019"
+   ],
+   "california-usa": [
+    "08-09-2019",
+    "07-09-2019"
+   ],
+   "cuxhaven-germany": [
+    "19-07-2019"
+   ],
+   "leipzig-germany": [
+    "17-08-2019"
+   ],
+   "monchengladbach-germany": [
+    "15-08-2019"
+   ],
+   "napoca-romania": [
+    "21-07-2019"
+   ],
+   "oulu-finland": [
+    "27-07-2019"
+   ],
+   "salem-germany": [
+    "16-08-2019"
+   ],
+   "skanderborg-denmark": [
+    "08-08-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "cuxhaven-germany",
+    "Lat": "53.8687800",
+    "Lon": "8.6982860",
+    "Dates": [
+     "19-07-2019"
+    ]
+   },
+   {
+    "Name": "leipzig-germany",
+    "Lat": "51.3406321",
+    "Lon": "12.3747329",
+    "Dates": [
+     "17-08-2019"
+    ]
+   },
+   {
+    "Name": "oulu-finland",
+    "Lat": "65.0117914",
+    "Lon": "25.4701973",
+    "Dates": [
+     "27-07-2019"
+    ]
+   },
+   {
+    "Name": "amsterdam-netherlands",
+    "Lat": "52.3730796",
+    "Lon": "4.8924534",
+    "Dates": [
+     "06-08-2019"
+    ]
+   },
+   {
+    "Name": "budapest-hungary",
+    "Lat": "47.4813896",
+    "Lon": "19.1457723",
+    "Dates": [
+     "23-07-2019"
+    ]
+   },
+   {
+    "Name": "burriana-spain",
+    "Lat": "39.8876912",
+    "Lon": "-0.0846321",
+    "Dates": [
+     "03-08-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "08-09-2019",
+     "07-09-2019"
+    ]
+   },
+   {
+    "Name": "monchengladbach-germany",
+    "Lat": "51.1947131",
+    "Lon": "6.4353792",
+    "Dates": [
+     "15-08-2019"
+    ]
+   },
+   {
+    "Name": "napoca-romania",
+    "Lat": "46.7693790",
+    "Lon": "23.5899542",
+    "Dates": [
+     "21-07-2019"
+    ]
+   },
+   {
+    "Name": "salem-germany",
+    "Lat": "53.6563082",
+    "Lon": "10.8253152",
+    "Dates": [
+     "16-08-2019"
+    ]
+   },
+   {
+    "Name": "skanderborg-denmark",
+    "Lat": "56.0351868",
+    "Lon": "9.9317878",
+    "Dates": [
+     "08-08-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 23,
+  "image": "https://groupietrackers.herokuapp.com/api/images/imagineDragons.jpeg",
+  "name": "Imagine Dragons",
+  "members": [
+   "Dan Reynolds",
+   "Daniel Wayne Sermon",
+   "Ben McKee"
+  ],
+  "creationDate": 2008,
+  "firstAlbum": "04-09-2012",
+  "DatesLocations": {
+   "berlin-germany": [
+    "08-09-2018"
+   ],
+   "california-usa": [
+    "24-05-2019",
+    "26-05-2019"
+   ],
+   "canton-usa": [
+    "04-08-2019"
+   ],
+   "del_mar-usa": [
+    "22-09-2018"
+   ],
+   "las_vegas-usa": [
+    "31-12-2018",
+    "22-09-2018"
+   ],
+   "lisbon-portugal": [
+    "04-09-2018"
+   ],
+   "mexico_city-mexico": [
+    "17-11-2018",
+    "18-10-2018"
+   ],
+   "monterrey-mexico": [
+    "17-07-2018"
+   ],
+   "new_york-usa": [
+    "25-05-2019"
+   ],
+   "quebec-canada": [
+    "14-07-2019"
+   ],
+   "rio_de_janeiro-brazil": [
+    "27-09-2019"
+   ],
+   "riyadh-saudi_arabia": [
+    "22-11-2019",
+    "07-09-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "24-05-2019",
+     "26-05-2019"
+    ]
+   },
+   {
+    "Name": "lisbon-portugal",
+    "Lat": "38.7077507",
+    "Lon": "-9.1365919",
+    "Dates": [
+     "04-09-2018"
+    ]
+   },
+   {
+    "Name": "mexico_city-mexico",
+    "Lat": "19.3207722",
+    "Lon": "-99.1514678",
+    "Dates": [
+     "17-11-2018",
+     "18-10-2018"
+    ]
+   },
+   {
+    "Name": "rio_de_janeiro-brazil",
+    "Lat": "-22.9110137",
+    "Lon": "-43.2093727",
+    "Dates": [
+     "27-09-2019"
+    ]
+   },
+   {
+    "Name": "canton-usa",
+    "Lat": "40.7985464",
+    "Lon": "-81.3749508",
+    "Dates": [
+     "04-08-2019"
+    ]
+   },
+   {
+    "Name": "del_mar-usa",
+    "Lat": "32.9594891",
+    "Lon": "-117.2653146",
+    "Dates": [
+     "22-09-2018"
+    ]
+   },
+   {
+    "Name": "las_vegas-usa",
+    "Lat": "36.1674263",
+    "Lon": "-115.1484131",
+    "Dates": [
+     "31-12-2018",
+     "22-09-2018"
+    ]
+   },
+   {
+    "Name": "monterrey-mexico",
+    "Lat": "25.6802019",
+    "Lon": "-100.3152580",
+    "Dates": [
+     "17-07-2018"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "40.7127281",
+    "Lon": "-74.0060152",
+    "Dates": [
+     "25-05-2019"
+    ]
+   },
+   {
+    "Name": "quebec-canada",
+    "Lat": "52.4760892",
+    "Lon": "-71.8258668",
+    "Dates": [
+     "14-07-2019"
+    ]
+   },
+   {
+    "Name": "riyadh-saudi_arabia",
+    "Lat": "24.6389160",
+    "Lon": "46.7160104",
+    "Dates": [
+     "22-11-2019",
+     "07-09-2019"
+    ]
+   },
+   {
+    "Name": "berlin-germany",
+    "Lat": "52.5173885",
+    "Lon": "13.3951309",
+    "Dates": [
+     "08-09-2018"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 24,
+  "image": "https://groupietrackers.herokuapp.com/api/images/juiceWrld.jpeg",
+  "name": "Juice Wrld",
+  "members": [
+   " Jarad Higgins"
+  ],
+  "creationDate": 2015,
+  "firstAlbum": "23-05-2018",
+  "DatesLocations": {
+   "amsterdam-netherlands": [
+    "25-03-2019"
+   ],
+   "birmingham-uk": [
+    "14-05-2019"
+   ],
+   "chicago-usa": [
+    "30-05-2019"
+   ],
+   "copenhagen-denmark": [
+    "01-05-2019"
+   ],
+   "manchester-uk": [
+    "18-03-2019"
+   ],
+   "missouri-usa": [
+    "18-01-2019"
+   ],
+   "paris-france": [
+    "07-03-2019"
+   ],
+   "washington-usa": [
+    "08-12-2018"
+   ],
+   "west_melbourne-australia": [
+    "29-11-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "amsterdam-netherlands",
+    "Lat": "52.3730796",
+    "Lon": "4.8924534",
+    "Dates": [
+     "25-03-2019"
+    ]
+   },
+   {
+    "Name": "copenhagen-denmark",
+    "Lat": "55.6867243",
+    "Lon": "12.5700724",
+    "Dates": [
+     "01-05-2019"
+    ]
+   },
+   {
+    "Name": "manchester-uk",
+    "Lat": "53.4424618",
+    "Lon": "-2.2324547",
+    "Dates": [
+     "18-03-2019"
+    ]
+   },
+   {
+    "Name": "paris-france",
+    "Lat": "48.8588897",
+    "Lon": "2.3200410",
+    "Dates": [
+     "07-03-2019"
+    ]
+   },
+   {
+    "Name": "washington-usa",
+    "Lat": "38.8950982",
+    "Lon": "-77.0363849",
+    "Dates": [
+     "08-12-2018"
+    ]
+   },
+   {
+    "Name": "birmingham-uk",
+    "Lat": "52.4948994",
+    "Lon": "-1.8518439",
+    "Dates": [
+     "14-05-2019"
+    ]
+   },
+   {
+    "Name": "chicago-usa",
+    "Lat": "41.8755616",
+    "Lon": "-87.6244212",
+    "Dates": [
+     "30-05-2019"
+    ]
+   },
+   {
+    "Name": "missouri-usa",
+    "Lat": "38.7604815",
+    "Lon": "-92.5617875",
+    "Dates": [
+     "18-01-2019"
+    ]
+   },
+   {
+    "Name": "west_melbourne-australia",
+    "Lat": "-37.8087470",
+    "Lon": "144.9238207",
+    "Dates": [
+     "29-11-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 25,
+  "image": "https://groupietrackers.herokuapp.com/api/images/logic.jpeg",
+  "name": "Logic",
+  "members": [
+   "Sir Robert Bryson Hall II"
+  ],
+  "creationDate": 2009,
+  "firstAlbum": "22-09-2015",
+  "DatesLocations": {
+   "boston-usa": [
+    "05-11-2019"
+   ],
+   "california-usa": [
+    "12-10-2019"
+   ],
+   "cleveland-usa": [
+    "12-11-2019"
+   ],
+   "madison-usa": [
+    "16-11-2019"
+   ],
+   "new_york-usa": [
+    "08-11-2019"
+   ],
+   "sydney-australia": [
+    "02-12-2019"
+   ],
+   "texas-usa": [
+    "19-10-2019",
+    "18-10-2019"
+   ],
+   "toronto-canada": [
+    "13-11-2019"
+   ],
+   "utah-usa": [
+    "15-10-2019"
+   ],
+   "west_melbourne-australia": [
+    "04-12-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "west_melbourne-australia",
+    "Lat": "-37.8087470",
+    "Lon": "144.9238207",
+    "Dates": [
+     "04-12-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "12-10-2019"
+    ]
+   },
+   {
+    "Name": "cleveland-usa",
+    "Lat": "41.4996574",
+    "Lon": "-81.6936772",
+    "Dates": [
+     "12-11-2019"
+    ]
+   },
+   {
+    "Name": "madison-usa",
+    "Lat": "43.0746900",
+    "Lon": "-89.3841663",
+    "Dates": [
+     "16-11-2019"
+    ]
+   },
+   {
+    "Name": "sydney-australia",
+    "Lat": "-33.8698439",
+    "Lon": "151.2082848",
+    "Dates": [
+     "02-12-2019"
+    ]
+   },
+   {
+    "Name": "texas-usa",
+    "Lat": "31.2638905",
+    "Lon": "-98.5456116",
+    "Dates": [
+     "19-10-2019",
+     "18-10-2019"
+    ]
+   },
+   {
+    "Name": "utah-usa",
+    "Lat": "39.4225192",
+    "Lon": "-111.7143580",
+    "Dates": [
+     "15-10-2019"
+    ]
+   },
+   {
+    "Name": "boston-usa",
+    "Lat": "42.3588336",
+    "Lon": "-71.0578303",
+    "Dates": [
+     "05-11-2019"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "40.7127281",
+    "Lon": "-74.0060152",
+    "Dates": [
+     "08-11-2019"
+    ]
+   },
+   {
+    "Name": "toronto-canada",
+    "Lat": "43.6534817",
+    "Lon": "-79.3839347",
+    "Dates": [
+     "13-11-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 26,
+  "image": "https://groupietrackers.herokuapp.com/api/images/alecBeenjamin.jpeg",
+  "name": "Alec Benjamin",
+  "members": [
+   "Alec Benjamin"
+  ],
+  "creationDate": 2013,
+  "firstAlbum": "15-11-2018",
+  "DatesLocations": {
+   "aberdeen-uk": [
+    "15-03-2020"
+   ],
+   "berlin-germany": [
+    "22-11-2019"
+   ],
+   "cardiff-uk": [
+    "11-03-2020"
+   ],
+   "dublin-ireland": [
+    "08-03-2020",
+    "09-03-2020",
+    "28-11-2019"
+   ],
+   "glasgow-uk": [
+    "05-03-2020",
+    "06-03-2020"
+   ],
+   "london-uk": [
+    "12-03-2020",
+    "13-03-2020",
+    "27-11-2019",
+    "26-11-2019"
+   ],
+   "madrid-spain": [
+    "08-07-2020"
+   ],
+   "manchester-uk": [
+    "02-03-2020",
+    "03-03-2020"
+   ],
+   "milan-italy": [
+    "20-11-2019"
+   ],
+   "paris-france": [
+    "25-11-2019"
+   ],
+   "stockholm-sweden": [
+    "26-06-2020"
+   ],
+   "warsaw-poland": [
+    "23-11-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "warsaw-poland",
+    "Lat": "52.2333742",
+    "Lon": "21.0711489",
+    "Dates": [
+     "23-11-2019"
+    ]
+   },
+   {
+    "Name": "berlin-germany",
+    "Lat": "52.5173885",
+    "Lon": "13.3951309",
+    "Dates": [
+     "22-11-2019"
+    ]
+   },
+   {
+    "Name": "cardiff-uk",
+    "Lat": "51.4816546",
+    "Lon": "-3.1791934",
+    "Dates": [
+     "11-03-2020"
+    ]
+   },
+   {
+    "Name": "manchester-uk",
+    "Lat": "53.4424618",
+    "Lon": "-2.2324547",
+    "Dates": [
+     "02-03-2020",
+     "03-03-2020"
+    ]
+   },
+   {
+    "Name": "paris-france",
+    "Lat": "48.8588897",
+    "Lon": "2.3200410",
+    "Dates": [
+     "25-11-2019"
+    ]
+   },
+   {
+    "Name": "stockholm-sweden",
+    "Lat": "59.3251172",
+    "Lon": "18.0710935",
+    "Dates": [
+     "26-06-2020"
+    ]
+   },
+   {
+    "Name": "aberdeen-uk",
+    "Lat": "57.1482429",
+    "Lon": "-2.0928095",
+    "Dates": [
+     "15-03-2020"
+    ]
+   },
+   {
+    "Name": "dublin-ireland",
+    "Lat": "53.3493795",
+    "Lon": "-6.2605593",
+    "Dates": [
+     "08-03-2020",
+     "09-03-2020",
+     "28-11-2019"
+    ]
+   },
+   {
+    "Name": "glasgow-uk",
+    "Lat": "55.8611550",
+    "Lon": "-4.2501687",
+    "Dates": [
+     "05-03-2020",
+     "06-03-2020"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "12-03-2020",
+     "13-03-2020",
+     "27-11-2019",
+     "26-11-2019"
+    ]
+   },
+   {
+    "Name": "madrid-spain",
+    "Lat": "40.4167820",
+    "Lon": "-3.7035070",
+    "Dates": [
+     "08-07-2020"
+    ]
+   },
+   {
+    "Name": "milan-italy",
+    "Lat": "45.4641943",
+    "Lon": "9.1896346",
+    "Dates": [
+     "20-11-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 27,
+  "image": "https://groupietrackers.herokuapp.com/api/images/bobbyMcFerrin.jpeg",
+  "name": "Bobby McFerrins",
+  "members": [
+   "Bobby McFerrin"
+  ],
+  "creationDate": 1977,
+  "firstAlbum": "01-09-1982",
+  "DatesLocations": {
+   "amsterdam-netherlands": [
+    "07-11-2019"
+   ],
+   "colorado-usa": [
+    "07-09-2020"
+   ],
+   "eindhoven-netherlands": [
+    "14-11-2019"
+   ],
+   "lyon-france": [
+    "18-11-2019"
+   ],
+   "michigan-usa": [
+    "16-01-2020"
+   ],
+   "new_hampshire-usa": [
+    "29-01-2020"
+   ],
+   "new_york-usa": [
+    "29-02-2020",
+    "23-05-2020"
+   ],
+   "oslo-norway": [
+    "10-11-2019"
+   ],
+   "sochaux-france": [
+    "20-11-2019"
+   ],
+   "warsaw-poland": [
+    "22-11-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "warsaw-poland",
+    "Lat": "52.2333742",
+    "Lon": "21.0711489",
+    "Dates": [
+     "22-11-2019"
+    ]
+   },
+   {
+    "Name": "amsterdam-netherlands",
+    "Lat": "52.3730796",
+    "Lon": "4.8924534",
+    "Dates": [
+     "07-11-2019"
+    ]
+   },
+   {
+    "Name": "lyon-france",
+    "Lat": "45.7578137",
+    "Lon": "4.8320114",
+    "Dates": [
+     "18-11-2019"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "40.7127281",
+    "Lon": "-74.0060152",
+    "Dates": [
+     "29-02-2020",
+     "23-05-2020"
+    ]
+   },
+   {
+    "Name": "colorado-usa",
+    "Lat": "38.7251776",
+    "Lon": "-105.6077160",
+    "Dates": [
+     "07-09-2020"
+    ]
+   },
+   {
+    "Name": "sochaux-france",
+    "Lat": "47.5138641",
+    "Lon": "6.8305344",
+    "Dates": [
+     "20-11-2019"
+    ]
+   },
+   {
+    "Name": "oslo-norway",
+    "Lat": "59.9133301",
+    "Lon": "10.7389701",
+    "Dates": [
+     "10-11-2019"
+    ]
+   },
+   {
+    "Name": "eindhoven-netherlands",
+    "Lat": "51.4485569",
+    "Lon": "5.4501225",
+    "Dates": [
+     "14-11-2019"
+    ]
+   },
+   {
+    "Name": "michigan-usa",
+    "Lat": "43.6211955",
+    "Lon": "-84.6824346",
+    "Dates": [
+     "16-01-2020"
+    ]
+   },
+   {
+    "Name": "new_hampshire-usa",
+    "Lat": "43.4849133",
+    "Lon": "-71.6553992",
+    "Dates": [
+     "29-01-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 28,
+  "image": "https://groupietrackers.herokuapp.com/api/images/R3HAB.jpeg",
+  "name": "R3HAB",
+  "members": [
+   "Fadil El Ghoul"
+  ],
+  "creationDate": 2008,
+  "firstAlbum": "09-12-2014",
+  "DatesLocations": {
+   "aalborg-denmark": [
+    "17-01-2020"
+   ],
+   "changzhou-china": [
+    "27-12-2019"
+   ],
+   "colorado-usa": [
+    "07-09-2020"
+   ],
+   "hong_kong-china": [
+    "29-12-2019"
+   ],
+   "huizhou-china": [
+    "15-12-2019"
+   ],
+   "jakarta-indonesia": [
+    "13-12-2019",
+    "14-12-2019",
+    "15-12-2019"
+   ],
+   "michigan-usa": [
+    "22-12-2019"
+   ],
+   "new_york-usa": [
+    "29-11-2019"
+   ],
+   "sanya-china": [
+    "01-01-2020"
+   ],
+   "seattle-usa": [
+    "16-11-2019"
+   ],
+   "texas-usa": [
+    "20-12-2019",
+    "23-11-2019"
+   ],
+   "toronto-canada": [
+    "22-11-2019"
+   ],
+   "washington-usa": [
+    "30-11-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "michigan-usa",
+    "Lat": "43.6211955",
+    "Lon": "-84.6824346",
+    "Dates": [
+     "22-12-2019"
+    ]
+   },
+   {
+    "Name": "texas-usa",
+    "Lat": "31.2638905",
+    "Lon": "-98.5456116",
+    "Dates": [
+     "20-12-2019",
+     "23-11-2019"
+    ]
+   },
+   {
+    "Name": "toronto-canada",
+    "Lat": "43.6534817",
+    "Lon": "-79.3839347",
+    "Dates": [
+     "22-11-2019"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "40.7127281",
+    "Lon": "-74.0060152",
+    "Dates": [
+     "29-11-2019"
+    ]
+   },
+   {
+    "Name": "changzhou-china",
+    "Lat": "31.8122623",
+    "Lon": "119.9691539",
+    "Dates": [
+     "27-12-2019"
+    ]
+   },
+   {
+    "Name": "colorado-usa",
+    "Lat": "38.7251776",
+    "Lon": "-105.6077160",
+    "Dates": [
+     "07-09-2020"
+    ]
+   },
+   {
+    "Name": "seattle-usa",
+    "Lat": "47.6038321",
+    "Lon": "-122.3300620",
+    "Dates": [
+     "16-11-2019"
+    ]
+   },
+   {
+    "Name": "jakarta-indonesia",
+    "Lat": "-6.1754049",
+    "Lon": "106.8271680",
+    "Dates": [
+     "13-12-2019",
+     "14-12-2019",
+     "15-12-2019"
+    ]
+   },
+   {
+    "Name": "washington-usa",
+    "Lat": "38.8950982",
+    "Lon": "-77.0363849",
+    "Dates": [
+     "30-11-2019"
+    ]
+   },
+   {
+    "Name": "sanya-china",
+    "Lat": "18.2534658",
+    "Lon": "109.5034392",
+    "Dates": [
+     "01-01-2020"
+    ]
+   },
+   {
+    "Name": "huizhou-china",
+    "Lat": "23.1125153",
+    "Lon": "114.4127007",
+    "Dates": [
+     "15-12-2019"
+    ]
+   },
+   {
+    "Name": "aalborg-denmark",
+    "Lat": "57.0462626",
+    "Lon": "9.9215263",
+    "Dates": [
+     "17-01-2020"
+    ]
+   },
+   {
+    "Name": "hong_kong-china",
+    "Lat": "22.3492155",
+    "Lon": "114.1857978",
+    "Dates": [
+     "29-12-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 29,
+  "image": "https://groupietrackers.herokuapp.com/api/images/postmalone.jpeg",
+  "name": "Post Malone",
+  "members": [
+   "Post Malone"
+  ],
+  "creationDate": 2013,
+  "firstAlbum": "13-05-2016",
+  "DatesLocations": {
+   "columbia-usa": [
+    "29-02-2020"
+   ],
+   "grand_rapids-usa": [
+    "12-02-2020"
+   ],
+   "hershey-usa": [
+    "22-02-2020"
+   ],
+   "indianapolis-usa": [
+    "09-02-2020"
+   ],
+   "kansas_city-usa": [
+    "05-02-2020"
+   ],
+   "montreal-usa": [
+    "16-02-2020"
+   ],
+   "newark-usa": [
+    "18-02-2020"
+   ],
+   "omaha-usa": [
+    "04-02-2020"
+   ],
+   "philadelphia-usa": [
+    "21-02-2020"
+   ],
+   "pittsburgh-usa": [
+    "24-02-2020"
+   ],
+   "rosemont-usa": [
+    "11-02-2020"
+   ],
+   "st_louis-usa": [
+    "07-02-2020"
+   ],
+   "toronto-usa": [
+    "14-02-2020"
+   ],
+   "uniondale-usa": [
+    "19-02-2020"
+   ],
+   "washington-usa": [
+    "27-02-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "washington-usa",
+    "Lat": "38.8950982",
+    "Lon": "-77.0363849",
+    "Dates": [
+     "27-02-2020"
+    ]
+   },
+   {
+    "Name": "hershey-usa",
+    "Lat": "40.2850285",
+    "Lon": "-76.6534662",
+    "Dates": [
+     "22-02-2020"
+    ]
+   },
+   {
+    "Name": "philadelphia-usa",
+    "Lat": "39.9527237",
+    "Lon": "-75.1635262",
+    "Dates": [
+     "21-02-2020"
+    ]
+   },
+   {
+    "Name": "toronto-usa",
+    "Lat": "41.9048584",
+    "Lon": "-90.8640346",
+    "Dates": [
+     "14-02-2020"
+    ]
+   },
+   {
+    "Name": "columbia-usa",
+    "Lat": "34.0007540",
+    "Lon": "-81.0352313",
+    "Dates": [
+     "29-02-2020"
+    ]
+   },
+   {
+    "Name": "rosemont-usa",
+    "Lat": "41.9941334",
+    "Lon": "-87.8756737",
+    "Dates": [
+     "11-02-2020"
+    ]
+   },
+   {
+    "Name": "kansas_city-usa",
+    "Lat": "39.1001050",
+    "Lon": "-94.5781416",
+    "Dates": [
+     "05-02-2020"
+    ]
+   },
+   {
+    "Name": "uniondale-usa",
+    "Lat": "40.7157545",
+    "Lon": "-73.5898872",
+    "Dates": [
+     "19-02-2020"
+    ]
+   },
+   {
+    "Name": "st_louis-usa",
+    "Lat": "38.6254063",
+    "Lon": "-90.1900090",
+    "Dates": [
+     "07-02-2020"
+    ]
+   },
+   {
+    "Name": "pittsburgh-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "24-02-2020"
+    ]
+   },
+   {
+    "Name": "indianapolis-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "09-02-2020"
+    ]
+   },
+   {
+    "Name": "newark-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "18-02-2020"
+    ]
+   },
+   {
+    "Name": "grand_rapids-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "12-02-2020"
+    ]
+   },
+   {
+    "Name": "omaha-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "04-02-2020"
+    ]
+   },
+   {
+    "Name": "montreal-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "16-02-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 30,
+  "image": "https://groupietrackers.herokuapp.com/api/images/travisScott.jpeg",
+  "name": "Travis Scott",
+  "members": [
+   "Jacques Bermon Webster II"
+  ],
+  "creationDate": 2008,
+  "firstAlbum": "18-08-2014",
+  "DatesLocations": {
+   "atlanta-usa": [
+    "14-10-2019"
+   ],
+   "frauenfeld-switzerland": [
+    "11-07-2019"
+   ],
+   "houston-usa": [
+    "10-11-2019",
+    "09-11-2019",
+    "24-08-2019"
+   ],
+   "london-uk": [
+    "16-07-2019"
+   ],
+   "los_angeles-usa": [
+    "24-11-2019"
+   ],
+   "new_orleans-usa": [
+    "07-10-2019"
+   ],
+   "philadelphia-usa": [
+    "31-08-2019"
+   ],
+   "santiago-chile": [
+    "29-03-2020"
+   ],
+   "sao_paulo-brazil": [
+    "05-04-2020"
+   ],
+   "turku-finland": [
+    "05-07-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "philadelphia-usa",
+    "Lat": "39.9527237",
+    "Lon": "-75.1635262",
+    "Dates": [
+     "31-08-2019"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "16-07-2019"
+    ]
+   },
+   {
+    "Name": "los_angeles-usa",
+    "Lat": "52.5362296",
+    "Lon": "13.5688341",
+    "Dates": [
+     "24-11-2019"
+    ]
+   },
+   {
+    "Name": "atlanta-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "14-10-2019"
+    ]
+   },
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "-23.5506507",
+    "Lon": "-46.6333824",
+    "Dates": [
+     "05-04-2020"
+    ]
+   },
+   {
+    "Name": "houston-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "10-11-2019",
+     "09-11-2019",
+     "24-08-2019"
+    ]
+   },
+   {
+    "Name": "santiago-chile",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-03-2020"
+    ]
+   },
+   {
+    "Name": "frauenfeld-switzerland",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-07-2019"
+    ]
+   },
+   {
+    "Name": "turku-finland",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "05-07-2019"
+    ]
+   },
+   {
+    "Name": "new_orleans-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "07-10-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 31,
+  "image": "https://groupietrackers.herokuapp.com/api/images/jCole.jpeg",
+  "name": "J. Cole",
+  "members": [
+   "Jermaine Lamarr Cole"
+  ],
+  "creationDate": 2007,
+  "firstAlbum": "04-05-2007",
+  "DatesLocations": {
+   "boston-usa": [
+    "10-10-2018"
+   ],
+   "brooklyn-usa": [
+    "04-06-2019"
+   ],
+   "las_vegas-usa": [
+    "01-11-2019",
+    "02-11-2019",
+    "03-11-2019"
+   ],
+   "montreal-canada": [
+    "05-10-2018"
+   ],
+   "new_york-usa": [
+    "01-10-2018"
+   ],
+   "philadelphia-usa": [
+    "06-10-2018"
+   ],
+   "toronto-usa": [
+    "04-10-2018"
+   ],
+   "washington-usa": [
+    "08-10-2018"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "boston-usa",
+    "Lat": "42.3588336",
+    "Lon": "-71.0578303",
+    "Dates": [
+     "10-10-2018"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "40.7127281",
+    "Lon": "-74.0060152",
+    "Dates": [
+     "01-10-2018"
+    ]
+   },
+   {
+    "Name": "las_vegas-usa",
+    "Lat": "36.1674263",
+    "Lon": "-115.1484131",
+    "Dates": [
+     "01-11-2019",
+     "02-11-2019",
+     "03-11-2019"
+    ]
+   },
+   {
+    "Name": "toronto-usa",
+    "Lat": "41.9048584",
+    "Lon": "-90.8640346",
+    "Dates": [
+     "04-10-2018"
+    ]
+   },
+   {
+    "Name": "philadelphia-usa",
+    "Lat": "39.9527237",
+    "Lon": "-75.1635262",
+    "Dates": [
+     "06-10-2018"
+    ]
+   },
+   {
+    "Name": "washington-usa",
+    "Lat": "38.8950982",
+    "Lon": "-77.0363849",
+    "Dates": [
+     "08-10-2018"
+    ]
+   },
+   {
+    "Name": "montreal-canada",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "05-10-2018"
+    ]
+   },
+   {
+    "Name": "brooklyn-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "04-06-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 32,
+  "image": "https://groupietrackers.herokuapp.com/api/images/nickelback.jpeg",
+  "name": "Nickelback",
+  "members": [
+   "Chad Kroeger",
+   "Ryan Peake",
+   "Mike Kroeger",
+   "Daniel Adair",
+   "Brandon Kroeger",
+   "Ryan Vikedal",
+   "Mitch Guindon"
+  ],
+  "creationDate": 1995,
+  "firstAlbum": "04-09-1996",
+  "DatesLocations": {
+   "berlin-germany": [
+    "25-06-2020"
+   ],
+   "budapest-hungary": [
+    "15-07-2020"
+   ],
+   "copenhagen-denmark": [
+    "02-07-2020"
+   ],
+   "frankfurt-germany": [
+    "23-06-2020"
+   ],
+   "imola-italy": [
+    "05-07-2020"
+   ],
+   "krakow-poland": [
+    "13-07-2020"
+   ],
+   "london-uk": [
+    "10-07-2020"
+   ],
+   "stockholm-sweden": [
+    "29-06-2020"
+   ],
+   "vienna-austria": [
+    "07-07-2020"
+   ],
+   "zurich-switzerland": [
+    "17-07-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "berlin-germany",
+    "Lat": "52.5173885",
+    "Lon": "13.3951309",
+    "Dates": [
+     "25-06-2020"
+    ]
+   },
+   {
+    "Name": "stockholm-sweden",
+    "Lat": "59.3251172",
+    "Lon": "18.0710935",
+    "Dates": [
+     "29-06-2020"
+    ]
+   },
+   {
+    "Name": "budapest-hungary",
+    "Lat": "47.4813896",
+    "Lon": "19.1457723",
+    "Dates": [
+     "15-07-2020"
+    ]
+   },
+   {
+    "Name": "copenhagen-denmark",
+    "Lat": "55.6867243",
+    "Lon": "12.5700724",
+    "Dates": [
+     "02-07-2020"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "10-07-2020"
+    ]
+   },
+   {
+    "Name": "frankfurt-germany",
+    "Lat": "50.1106444",
+    "Lon": "8.6820917",
+    "Dates": [
+     "23-06-2020"
+    ]
+   },
+   {
+    "Name": "krakow-poland",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "13-07-2020"
+    ]
+   },
+   {
+    "Name": "imola-italy",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "05-07-2020"
+    ]
+   },
+   {
+    "Name": "zurich-switzerland",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "17-07-2020"
+    ]
+   },
+   {
+    "Name": "vienna-austria",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "07-07-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 33,
+  "image": "https://groupietrackers.herokuapp.com/api/images/mobbDeep.jpeg",
+  "name": "Mobb Deep",
+  "members": [
+   "Prodigy",
+   "Havoc"
+  ],
+  "creationDate": 1991,
+  "firstAlbum": "23-04-1993",
+  "DatesLocations": {
+   "amityville-usa": [
+    "22-03-2017"
+   ],
+   "chicago-usa": [
+    "17-03-2017"
+   ],
+   "detroit-usa": [
+    "15-03-2017"
+   ],
+   "minneapolis-usa": [
+    "16-03-2017"
+   ],
+   "paris-france": [
+    "31-03-2017"
+   ],
+   "philadelphia-usa": [
+    "03-06-2017"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "paris-france",
+    "Lat": "48.8588897",
+    "Lon": "2.3200410",
+    "Dates": [
+     "31-03-2017"
+    ]
+   },
+   {
+    "Name": "philadelphia-usa",
+    "Lat": "39.9527237",
+    "Lon": "-75.1635262",
+    "Dates": [
+     "03-06-2017"
+    ]
+   },
+   {
+    "Name": "chicago-usa",
+    "Lat": "41.8755616",
+    "Lon": "-87.6244212",
+    "Dates": [
+     "17-03-2017"
+    ]
+   },
+   {
+    "Name": "detroit-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-03-2017"
+    ]
+   },
+   {
+    "Name": "amityville-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "22-03-2017"
+    ]
+   },
+   {
+    "Name": "minneapolis-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "16-03-2017"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 34,
+  "image": "https://groupietrackers.herokuapp.com/api/images/gunsNRoses.jpeg",
+  "name": "Guns N' Roses",
+  "members": [
+   "Axl Rose",
+   "Duff McKagan",
+   "Slash",
+   "Dizzy Reed",
+   "Richard Fortus",
+   "Frank Ferrer",
+   "Melissa Reese"
+  ],
+  "creationDate": 1985,
+  "firstAlbum": "21-07-1987",
+  "DatesLocations": {
+   "berlin-germany": [
+    "03-06-2018"
+   ],
+   "charlotte-usa": [
+    "25-09-2019"
+   ],
+   "chicago-usa": [
+    "06-03-2017"
+   ],
+   "houston-usa": [
+    "10-11-2017"
+   ],
+   "inglewood-usa": [
+    "25-11-2017"
+   ],
+   "los_angeles-usa": [
+    "24-11-2017"
+   ],
+   "madrid-spain": [
+    "04-06-2017"
+   ],
+   "oakland-usa": [
+    "21-11-2017"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "los_angeles-usa",
+    "Lat": "52.5362296",
+    "Lon": "13.5688341",
+    "Dates": [
+     "24-11-2017"
+    ]
+   },
+   {
+    "Name": "madrid-spain",
+    "Lat": "40.4167820",
+    "Lon": "-3.7035070",
+    "Dates": [
+     "04-06-2017"
+    ]
+   },
+   {
+    "Name": "berlin-germany",
+    "Lat": "52.5173885",
+    "Lon": "13.3951309",
+    "Dates": [
+     "03-06-2018"
+    ]
+   },
+   {
+    "Name": "chicago-usa",
+    "Lat": "41.8755616",
+    "Lon": "-87.6244212",
+    "Dates": [
+     "06-03-2017"
+    ]
+   },
+   {
+    "Name": "houston-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "10-11-2017"
+    ]
+   },
+   {
+    "Name": "inglewood-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-11-2017"
+    ]
+   },
+   {
+    "Name": "oakland-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "21-11-2017"
+    ]
+   },
+   {
+    "Name": "charlotte-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-09-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 35,
+  "image": "https://groupietrackers.herokuapp.com/api/images/nwa.jpeg",
+  "name": "NWA",
+  "members": [
+   "Ice Cube",
+   "Eazy-E",
+   "Dr. Dre",
+   "MC Ren",
+   "DJ Yella",
+   "The D.O.C.",
+   "Arabian Prince"
+  ],
+  "creationDate": 1998,
+  "firstAlbum": "03-11-1998",
+  "DatesLocations": {
+   "anaheim-usa": [
+    "24-03-1989"
+   ],
+   "birmingham-uk": [
+    "25-06-1989"
+   ],
+   "brooklyn-usa": [
+    "03-09-2016"
+   ],
+   "chicago-usa": [
+    "12-01-1989"
+   ],
+   "cincinnati-usa": [
+    "18-06-1989"
+   ],
+   "windsor-canada": [
+    "03-09-2015"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "birmingham-uk",
+    "Lat": "52.4948994",
+    "Lon": "-1.8518439",
+    "Dates": [
+     "25-06-1989"
+    ]
+   },
+   {
+    "Name": "chicago-usa",
+    "Lat": "41.8755616",
+    "Lon": "-87.6244212",
+    "Dates": [
+     "12-01-1989"
+    ]
+   },
+   {
+    "Name": "windsor-canada",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-09-2015"
+    ]
+   },
+   {
+    "Name": "cincinnati-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "18-06-1989"
+    ]
+   },
+   {
+    "Name": "brooklyn-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-09-2016"
+    ]
+   },
+   {
+    "Name": "anaheim-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "24-03-1989"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 36,
+  "image": "https://groupietrackers.herokuapp.com/api/images/u2.jpeg",
+  "name": "U2",
+  "members": [
+   "Bono",
+   "The Edge",
+   "Adam Clayton",
+   "Larry Mullen Jr.",
+   "Ivan McCormick",
+   "Peter Martin",
+   "Dick Evans"
+  ],
+  "creationDate": 1976,
+  "firstAlbum": "06-12-1980",
+  "DatesLocations": {
+   "auckland-new_zealand": [
+    "08-11-2019"
+   ],
+   "brisbane-australia": [
+    "12-11-2019"
+   ],
+   "manila-philippines": [
+    "11-12-2019"
+   ],
+   "melbourne-australia": [
+    "15-11-2019"
+   ],
+   "mumbai-india": [
+    "15-12-2019"
+   ],
+   "sydney-australia": [
+    "22-11-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "sydney-australia",
+    "Lat": "-33.8698439",
+    "Lon": "151.2082848",
+    "Dates": [
+     "22-11-2019"
+    ]
+   },
+   {
+    "Name": "auckland-new_zealand",
+    "Lat": "-36.8520950",
+    "Lon": "174.7631803",
+    "Dates": [
+     "08-11-2019"
+    ]
+   },
+   {
+    "Name": "mumbai-india",
+    "Lat": "19.0549990",
+    "Lon": "72.8692035",
+    "Dates": [
+     "15-12-2019"
+    ]
+   },
+   {
+    "Name": "melbourne-australia",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-11-2019"
+    ]
+   },
+   {
+    "Name": "brisbane-australia",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "12-11-2019"
+    ]
+   },
+   {
+    "Name": "manila-philippines",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-12-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 37,
+  "image": "https://groupietrackers.herokuapp.com/api/images/arcticmonkeys.jpeg",
+  "name": "Arctic Monkeys",
+  "members": [
+   "Alex Turner",
+   "Matt Helders",
+   "Jamie Cook",
+   "Nick O'Malley",
+   "Andy Nicholson",
+   "Glyn Jones"
+  ],
+  "creationDate": 2002,
+  "firstAlbum": "23-04-2007",
+  "DatesLocations": {
+   "bogota-colombia": [
+    "07-04-2019"
+   ],
+   "lima-peru": [
+    "26-03-2019"
+   ],
+   "rio_de_janeiro-brazil": [
+    "03-04-2019"
+   ],
+   "san_isidro-argentina": [
+    "29-03-2019"
+   ],
+   "santiago-chile": [
+    "29-03-2019"
+   ],
+   "sao_paulo-brazil": [
+    "03-04-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "-23.5506507",
+    "Lon": "-46.6333824",
+    "Dates": [
+     "03-04-2019"
+    ]
+   },
+   {
+    "Name": "bogota-colombia",
+    "Lat": "4.6533817",
+    "Lon": "-74.0836331",
+    "Dates": [
+     "07-04-2019"
+    ]
+   },
+   {
+    "Name": "rio_de_janeiro-brazil",
+    "Lat": "-22.9110137",
+    "Lon": "-43.2093727",
+    "Dates": [
+     "03-04-2019"
+    ]
+   },
+   {
+    "Name": "san_isidro-argentina",
+    "Lat": "-34.4739792",
+    "Lon": "-58.5264866",
+    "Dates": [
+     "29-03-2019"
+    ]
+   },
+   {
+    "Name": "santiago-chile",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-03-2019"
+    ]
+   },
+   {
+    "Name": "lima-peru",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "26-03-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 38,
+  "image": "https://groupietrackers.herokuapp.com/api/images/fallOutBoy.jpeg",
+  "name": "Fall Out Boy",
+  "members": [
+   "Pete Wentz",
+   "Patrick Stump",
+   "Andy Hurley",
+   "Joe Trohman"
+  ],
+  "creationDate": 2001,
+  "firstAlbum": "25-03-2003",
+  "DatesLocations": {
+   "antwerp-belgium": [
+    "19-06-2020"
+   ],
+   "glasgow-uk": [
+    "24-06-2020"
+   ],
+   "groningen-netherlands": [
+    "14-06-2020"
+   ],
+   "london-uk": [
+    "26-06-2020"
+   ],
+   "paris-france": [
+    "13-06-2020"
+   ],
+   "vienna-austria": [
+    "21-06-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "glasgow-uk",
+    "Lat": "55.8611550",
+    "Lon": "-4.2501687",
+    "Dates": [
+     "24-06-2020"
+    ]
+   },
+   {
+    "Name": "paris-france",
+    "Lat": "48.8588897",
+    "Lon": "2.3200410",
+    "Dates": [
+     "13-06-2020"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "26-06-2020"
+    ]
+   },
+   {
+    "Name": "groningen-netherlands",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "14-06-2020"
+    ]
+   },
+   {
+    "Name": "vienna-austria",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "21-06-2020"
+    ]
+   },
+   {
+    "Name": "antwerp-belgium",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "19-06-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 39,
+  "image": "https://groupietrackers.herokuapp.com/api/images/gorillaz.jpeg",
+  "name": "Gorillaz",
+  "members": [
+   "Damon Albarn",
+   "Jamie Hewlett",
+   "Remi Kabaka Jr."
+  ],
+  "creationDate": 1998,
+  "firstAlbum": "26-03-2001",
+  "DatesLocations": {
+   "boston-usa": [
+    "13-10-2018"
+   ],
+   "chicago-usa": [
+    "16-10-2018"
+   ],
+   "mexico_city-mexico": [
+    "24-10-2018"
+   ],
+   "philadelphia-usa": [
+    "11-10-2018"
+   ],
+   "pico_rivera-usa": [
+    "20-10-2018"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "chicago-usa",
+    "Lat": "41.8755616",
+    "Lon": "-87.6244212",
+    "Dates": [
+     "16-10-2018"
+    ]
+   },
+   {
+    "Name": "mexico_city-mexico",
+    "Lat": "19.3207722",
+    "Lon": "-99.1514678",
+    "Dates": [
+     "24-10-2018"
+    ]
+   },
+   {
+    "Name": "philadelphia-usa",
+    "Lat": "39.9527237",
+    "Lon": "-75.1635262",
+    "Dates": [
+     "11-10-2018"
+    ]
+   },
+   {
+    "Name": "boston-usa",
+    "Lat": "42.3588336",
+    "Lon": "-71.0578303",
+    "Dates": [
+     "13-10-2018"
+    ]
+   },
+   {
+    "Name": "pico_rivera-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "20-10-2018"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 40,
+  "image": "https://groupietrackers.herokuapp.com/api/images/eagles.jpeg",
+  "name": "Eagles",
+  "members": [
+   "Glenn Frey",
+   "Don Henley",
+   "Randy Meisner",
+   "Bernie Leadon"
+  ],
+  "creationDate": 1971,
+  "firstAlbum": "01-06-1972",
+  "DatesLocations": {
+   "berwyn-usa": [
+    "31-12-2019"
+   ],
+   "dallas-usa": [
+    "29-02-2020",
+    "01-03-2020"
+   ],
+   "georgia-usa": [
+    "07-02-2020",
+    "08-02-2020",
+    "11-02-2020"
+   ],
+   "houston-usa": [
+    "07-03-2020"
+   ],
+   "london-uk": [
+    "29-08-2020",
+    "30-08-2020"
+   ],
+   "new_york-usa": [
+    "15-02-2020",
+    "14-02-2020",
+    "18-02-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "georgia-usa",
+    "Lat": "32.3293809",
+    "Lon": "-83.1137366",
+    "Dates": [
+     "07-02-2020",
+     "08-02-2020",
+     "11-02-2020"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "40.7127281",
+    "Lon": "-74.0060152",
+    "Dates": [
+     "15-02-2020",
+     "14-02-2020",
+     "18-02-2020"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "29-08-2020",
+     "30-08-2020"
+    ]
+   },
+   {
+    "Name": "houston-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "07-03-2020"
+    ]
+   },
+   {
+    "Name": "berwyn-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "31-12-2019"
+    ]
+   },
+   {
+    "Name": "dallas-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-02-2020",
+     "01-03-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 41,
+  "image": "https://groupietrackers.herokuapp.com/api/images/linkinpark.jpeg",
+  "name": "Linkin Park",
+  "members": [
+   "Chester Bennington",
+   "Mike Shinoda",
+   "Brad Delson",
+   "Dave Farrell",
+   "Joe Hahn",
+   "Rob Bourdon"
+  ],
+  "creationDate": 1996,
+  "firstAlbum": "27-01-2001",
+  "DatesLocations": {
+   "birmingham-uk": [
+    "06-07-2017"
+   ],
+   "brixton-uk": [
+    "04-07-2017"
+   ],
+   "california-usa": [
+    "27-10-2017"
+   ],
+   "london-uk": [
+    "03-07-2017"
+   ],
+   "rotselaar-belgium": [
+    "02-07-2017"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "27-10-2017"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "03-07-2017"
+    ]
+   },
+   {
+    "Name": "birmingham-uk",
+    "Lat": "52.4948994",
+    "Lon": "-1.8518439",
+    "Dates": [
+     "06-07-2017"
+    ]
+   },
+   {
+    "Name": "brixton-uk",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "04-07-2017"
+    ]
+   },
+   {
+    "Name": "rotselaar-belgium",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "02-07-2017"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 42,
+  "image": "https://groupietrackers.herokuapp.com/api/images/redhotchilipeppers.jpeg",
+  "name": "Red Hot Chili Peppers",
+  "members": [
+   "Anthony Kiedis",
+   "Flea",
+   "Chad Smith",
+   "Josh Klinghoffer"
+  ],
+  "creationDate": 1983,
+  "firstAlbum": "10-02-1990",
+  "DatesLocations": {
+   "alabama-usa": [
+    "15-05-2020"
+   ],
+   "athens-greece": [
+    "05-06-2020"
+   ],
+   "california-usa": [
+    "29-09-2019"
+   ],
+   "florence-italy": [
+    "13-06-2020"
+   ],
+   "landgraaf-netherlands": [
+    "19-06-2020"
+   ],
+   "los_angeles-usa": [
+    "02-11-2019"
+   ],
+   "massachusetts-usa": [
+    "22-05-2020"
+   ],
+   "rio_de_janeiro-brazil": [
+    "03-10-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "29-09-2019"
+    ]
+   },
+   {
+    "Name": "alabama-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-05-2020"
+    ]
+   },
+   {
+    "Name": "los_angeles-usa",
+    "Lat": "52.5362296",
+    "Lon": "13.5688341",
+    "Dates": [
+     "02-11-2019"
+    ]
+   },
+   {
+    "Name": "rio_de_janeiro-brazil",
+    "Lat": "-22.9110137",
+    "Lon": "-43.2093727",
+    "Dates": [
+     "03-10-2019"
+    ]
+   },
+   {
+    "Name": "massachusetts-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "22-05-2020"
+    ]
+   },
+   {
+    "Name": "landgraaf-netherlands",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "19-06-2020"
+    ]
+   },
+   {
+    "Name": "florence-italy",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "13-06-2020"
+    ]
+   },
+   {
+    "Name": "athens-greece",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "05-06-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 43,
+  "image": "https://groupietrackers.herokuapp.com/api/images/eminem.jpeg",
+  "name": "Eminem",
+  "members": [
+   "Marshall Bruce Mathers"
+  ],
+  "creationDate": 1996,
+  "firstAlbum": "10-04-1999",
+  "DatesLocations": {
+   "abu_dhabi-united_arab_emirates": [
+    "25-10-2019"
+   ],
+   "burswood-australia": [
+    "27-02-2019"
+   ],
+   "melbourne-australia": [
+    "24-02-2019"
+   ],
+   "sydney-australia": [
+    "22-02-2019"
+   ],
+   "wellington-new_zealand": [
+    "02-03-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "sydney-australia",
+    "Lat": "-33.8698439",
+    "Lon": "151.2082848",
+    "Dates": [
+     "22-02-2019"
+    ]
+   },
+   {
+    "Name": "abu_dhabi-united_arab_emirates",
+    "Lat": "24.4538352",
+    "Lon": "54.3774014",
+    "Dates": [
+     "25-10-2019"
+    ]
+   },
+   {
+    "Name": "melbourne-australia",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "24-02-2019"
+    ]
+   },
+   {
+    "Name": "wellington-new_zealand",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "02-03-2019"
+    ]
+   },
+   {
+    "Name": "burswood-australia",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "27-02-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 44,
+  "image": "https://groupietrackers.herokuapp.com/api/images/greenday.jpeg",
+  "name": "Green Day",
+  "members": [
+   "Billie Joe Armstrong",
+   "Mike Dirnt",
+   "Tré Cool"
+  ],
+  "creationDate": 1986,
+  "firstAlbum": "18-06-1994",
+  "DatesLocations": {
+   "bangkok-thailand": [
+    "11-03-2020"
+   ],
+   "hong_kong-china": [
+    "20-03-2020"
+   ],
+   "los_angeles-usa": [
+    "24-11-2019"
+   ],
+   "madrid-spain": [
+    "30-10-2019"
+   ],
+   "manila-philippines": [
+    "14-03-2020"
+   ],
+   "seoul-south_korea": [
+    "22-03-2020"
+   ],
+   "seville-spain": [
+    "03-11-2019"
+   ],
+   "taipei-taiwan": [
+    "17-03-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "madrid-spain",
+    "Lat": "40.4167820",
+    "Lon": "-3.7035070",
+    "Dates": [
+     "30-10-2019"
+    ]
+   },
+   {
+    "Name": "hong_kong-china",
+    "Lat": "22.3492155",
+    "Lon": "114.1857978",
+    "Dates": [
+     "20-03-2020"
+    ]
+   },
+   {
+    "Name": "los_angeles-usa",
+    "Lat": "52.5362296",
+    "Lon": "13.5688341",
+    "Dates": [
+     "24-11-2019"
+    ]
+   },
+   {
+    "Name": "bangkok-thailand",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-03-2020"
+    ]
+   },
+   {
+    "Name": "seville-spain",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-11-2019"
+    ]
+   },
+   {
+    "Name": "seoul-south_korea",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "22-03-2020"
+    ]
+   },
+   {
+    "Name": "manila-philippines",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "14-03-2020"
+    ]
+   },
+   {
+    "Name": "taipei-taiwan",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "17-03-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 45,
+  "image": "https://groupietrackers.herokuapp.com/api/images/metallica.jpeg",
+  "name": "Metallica",
+  "members": [
+   "James Hetfield",
+   "Lars Ulrich",
+   "Kirk Hammett",
+   "Robert Trujillo"
+  ],
+  "creationDate": 1981,
+  "firstAlbum": "22-08-1987",
+  "DatesLocations": {
+   "belo_horizonte-brazil": [
+    "27-04-2020"
+   ],
+   "buenos_aires-argentina": [
+    "18-04-2020"
+   ],
+   "mannheim-germany": [
+    "25-09-2019"
+   ],
+   "munich-germany": [
+    "23-08-2019"
+   ],
+   "porto_alegre-brazil": [
+    "21-04-2020",
+    "23-04-2020"
+   ],
+   "san_francisco-usa": [
+    "06-09-2019",
+    "08-09-2019"
+   ],
+   "santiago-chile": [
+    "15-04-2020"
+   ],
+   "sao_paulo-brazil": [
+    "25-04-2020"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "-23.5506507",
+    "Lon": "-46.6333824",
+    "Dates": [
+     "25-04-2020"
+    ]
+   },
+   {
+    "Name": "santiago-chile",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-04-2020"
+    ]
+   },
+   {
+    "Name": "munich-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "23-08-2019"
+    ]
+   },
+   {
+    "Name": "mannheim-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-09-2019"
+    ]
+   },
+   {
+    "Name": "san_francisco-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "06-09-2019",
+     "08-09-2019"
+    ]
+   },
+   {
+    "Name": "porto_alegre-brazil",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "21-04-2020",
+     "23-04-2020"
+    ]
+   },
+   {
+    "Name": "belo_horizonte-brazil",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "27-04-2020"
+    ]
+   },
+   {
+    "Name": "buenos_aires-argentina",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "18-04-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 46,
+  "image": "https://groupietrackers.herokuapp.com/api/images/coldplay.jpeg",
+  "name": "Coldplay",
+  "members": [
+   "Chris Martin",
+   "Guy Berryman",
+   "Jonny Buckland",
+   "Will Champion"
+  ],
+  "creationDate": 1996,
+  "firstAlbum": "22-07-2000",
+  "DatesLocations": {
+   "california-usa": [
+    "08-10-2017"
+   ],
+   "la_plata-argentina": [
+    "14-11-2017",
+    "15-11-2017"
+   ],
+   "london-uk": [
+    "25-11-2019"
+   ],
+   "porto_alegre-brazil": [
+    "11-11-2017"
+   ],
+   "sao_paulo-brazil": [
+    "07-11-2017",
+    "08-11-2017"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "08-10-2017"
+    ]
+   },
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "-23.5506507",
+    "Lon": "-46.6333824",
+    "Dates": [
+     "07-11-2017",
+     "08-11-2017"
+    ]
+   },
+   {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "25-11-2019"
+    ]
+   },
+   {
+    "Name": "porto_alegre-brazil",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-11-2017"
+    ]
+   },
+   {
+    "Name": "la_plata-argentina",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "14-11-2017",
+     "15-11-2017"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 47,
+  "image": "https://groupietrackers.herokuapp.com/api/images/maroon5.jpeg",
+  "name": "Maroon 5",
+  "members": [
+   "Adam Levine",
+   "Jesse Carmichael",
+   "Mickey Madden",
+   "James Valentine",
+   "Matt Flynn",
+   "PJ Morton",
+   "Sam Farrar"
+  ],
+  "creationDate": 1994,
+  "firstAlbum": "31-01-2004",
+  "DatesLocations": {
+   "brasilia-brazil": [
+    "03-03-2020"
+   ],
+   "dubai-united_arab_emirates": [
+    "14-06-2019"
+   ],
+   "florida-usa": [
+    "01-02-2020"
+   ],
+   "mexico_city-mexico": [
+    "23-02-2020"
+   ],
+   "santiago-chile": [
+    "28-02-2020"
+   ],
+   "sao_paulo-brazil": [
+    "01-03-2020"
+   ],
+   "willemstad-netherlands_antilles": [
+    "29-08-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "florida-usa",
+    "Lat": "27.7567667",
+    "Lon": "-81.4639835",
+    "Dates": [
+     "01-02-2020"
+    ]
+   },
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "-23.5506507",
+    "Lon": "-46.6333824",
+    "Dates": [
+     "01-03-2020"
+    ]
+   },
+   {
+    "Name": "mexico_city-mexico",
+    "Lat": "19.3207722",
+    "Lon": "-99.1514678",
+    "Dates": [
+     "23-02-2020"
+    ]
+   },
+   {
+    "Name": "dubai-united_arab_emirates",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "14-06-2019"
+    ]
+   },
+   {
+    "Name": "willemstad-netherlands_antilles",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-08-2019"
+    ]
+   },
+   {
+    "Name": "santiago-chile",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "28-02-2020"
+    ]
+   },
+   {
+    "Name": "brasilia-brazil",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-03-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 48,
+  "image": "https://groupietrackers.herokuapp.com/api/images/twentyonepilots.jpeg",
+  "name": "Twenty One Pilots",
+  "members": [
+   "Tyler Joseph",
+   "Josh Dun"
+  ],
+  "creationDate": 2009,
+  "firstAlbum": "14-09-2013",
+  "DatesLocations": {
+   "arras-france": [
+    "03-07-2020"
+   ],
+   "california-usa": [
+    "08-12-2019"
+   ],
+   "gdynia-poland": [
+    "01-07-2020"
+   ],
+   "illinois-usa": [
+    "13-12-2019"
+   ],
+   "oklahoma-usa": [
+    "09-11-2019"
+   ],
+   "scheessel-germany": [
+    "19-06-2020"
+   ],
+   "st_gallen-switzerland": [
+    "25-06-2020"
+   ],
+   "texas-usa": [
+    "08-11-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "texas-usa",
+    "Lat": "31.2638905",
+    "Lon": "-98.5456116",
+    "Dates": [
+     "08-11-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "08-12-2019"
+    ]
+   },
+   {
+    "Name": "illinois-usa",
+    "Lat": "40.0796606",
+    "Lon": "-89.4337288",
+    "Dates": [
+     "13-12-2019"
+    ]
+   },
+   {
+    "Name": "scheessel-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "19-06-2020"
+    ]
+   },
+   {
+    "Name": "st_gallen-switzerland",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-06-2020"
+    ]
+   },
+   {
+    "Name": "oklahoma-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "09-11-2019"
+    ]
+   },
+   {
+    "Name": "gdynia-poland",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "01-07-2020"
+    ]
+   },
+   {
+    "Name": "arras-france",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-07-2020"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 49,
+  "image": "https://groupietrackers.herokuapp.com/api/images/therollingstones.jpeg",
+  "name": "The Rolling Stones",
+  "members": [
+   "Mick Jagger ",
+   "Keith Richards",
+   "Charlie Watts",
+   "Ron Wood"
+  ],
+  "creationDate": 1962,
+  "firstAlbum": "31-07-1963",
+  "DatesLocations": {
+   "arizona-usa": [
+    "26-08-2019"
+   ],
+   "california-usa": [
+    "22-08-2019"
+   ],
+   "florida-usa": [
+    "31-08-2020"
+   ],
+   "washington-usa": [
+    "14-08-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "florida-usa",
+    "Lat": "27.7567667",
+    "Lon": "-81.4639835",
+    "Dates": [
+     "31-08-2020"
+    ]
+   },
+   {
+    "Name": "washington-usa",
+    "Lat": "38.8950982",
+    "Lon": "-77.0363849",
+    "Dates": [
+     "14-08-2019"
+    ]
+   },
+   {
+    "Name": "arizona-usa",
+    "Lat": "34.3953420",
+    "Lon": "-111.7632750",
+    "Dates": [
+     "26-08-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "36.7014631",
+    "Lon": "-118.7559970",
+    "Dates": [
+     "22-08-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 50,
+  "image": "https://groupietrackers.herokuapp.com/api/images/muse.jpeg",
+  "name": "Muse",
+  "members": [
+   "Matthew Bellamy",
+   "Christopher Wolstenholme",
+   "Dominic Howard "
+  ],
+  "creationDate": 1994,
+  "firstAlbum": "26-06-1999",
+  "DatesLocations": {
+   "buenos_aires-argentina": [
+    "11-10-2019"
+   ],
+   "lima-peru": [
+    "15-10-2019"
+   ],
+   "mexico_city-mexico": [
+    "03-10-2019"
+   ],
+   "santiago-chile": [
+    "13-10-2019"
+   ],
+   "sao_paulo-brazil": [
+    "09-10-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "-23.5506507",
+    "Lon": "-46.6333824",
+    "Dates": [
+     "09-10-2019"
+    ]
+   },
+   {
+    "Name": "mexico_city-mexico",
+    "Lat": "19.3207722",
+    "Lon": "-99.1514678",
+    "Dates": [
+     "03-10-2019"
+    ]
+   },
+   {
+    "Name": "santiago-chile",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "13-10-2019"
+    ]
+   },
+   {
+    "Name": "lima-peru",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-10-2019"
+    ]
+   },
+   {
+    "Name": "buenos_aires-argentina",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-10-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 51,
+  "image": "https://groupietrackers.herokuapp.com/api/images/foofighters.jpeg",
+  "name": "Foo Fighters",
+  "members": [
+   "Dave Grohl",
+   "Nate Mendel",
+   "Taylor Hawkins",
+   "Chris Shiflett",
+   "Pat Smear",
+   "Rami Jaffee"
+  ],
+  "creationDate": 1994,
+  "firstAlbum": "01-07-1995",
+  "DatesLocations": {
+   "bogota-colombia": [
+    "01-10-2019"
+   ],
+   "lisbon-portugal": [
+    "20-06-2020"
+   ],
+   "massachusetts-usa": [
+    "22-05-2020"
+   ],
+   "milan-italy": [
+    "14-06-2020"
+   ],
+   "nevada-usa": [
+    "06-12-2019"
+   ],
+   "nickelsdorf-austria": [
+    "10-06-2020"
+   ],
+   "san_jose-costa_rica": [
+    "04-10-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "lisbon-portugal",
+    "Lat": "38.7077507",
+    "Lon": "-9.1365919",
+    "Dates": [
+     "20-06-2020"
+    ]
+   },
+   {
+    "Name": "milan-italy",
+    "Lat": "45.4641943",
+    "Lon": "9.1896346",
+    "Dates": [
+     "14-06-2020"
+    ]
+   },
+   {
+    "Name": "nevada-usa",
+    "Lat": "39.5158825",
+    "Lon": "-116.8537220",
+    "Dates": [
+     "06-12-2019"
+    ]
+   },
+   {
+    "Name": "bogota-colombia",
+    "Lat": "4.6533817",
+    "Lon": "-74.0836331",
+    "Dates": [
+     "01-10-2019"
+    ]
+   },
+   {
+    "Name": "nickelsdorf-austria",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "10-06-2020"
+    ]
+   },
+   {
+    "Name": "massachusetts-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "22-05-2020"
+    ]
+   },
+   {
+    "Name": "san_jose-costa_rica",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "04-10-2019"
+    ]
+   }
+  ]
+ },
+ {
+  "id": 52,
+  "image": "https://groupietrackers.herokuapp.com/api/images/thechainsmokers.jpeg",
+  "name": "The Chainsmokers",
+  "members": [
+   "Alexander Pall",
+   "Andrew Taggart",
+   "Matt McGuire",
+   "Tony Ann"
+  ],
+  "creationDate": 2008,
+  "firstAlbum": "15-03-2014",
+  "DatesLocations": {
+   "colorado-usa": [
+    "23-01-2020"
+   ],
+   "milan-italy": [
+    "10-10-2020"
+   ],
+   "munich-germany": [
+    "07-10-2020"
+   ],
+   "nevada-usa": [
+    "07-12-2019",
+    "14-12-2019",
+    "31-12-2019",
+    "11-01-2020",
+    "18-01-2020"
+   ],
+   "oregon-usa": [
+    "05-12-2019"
+   ],
+   "prague-czechia": [
+    "08-10-2020"
+   ],
+   "vancouver-canada": [
+    "06-12-2019"
+   ]
+  },
+  "Locations": [
+   {
+    "Name": "nevada-usa",
+    "Lat": "39.5158825",
+    "Lon": "-116.8537220",
+    "Dates": [
+     "07-12-2019",
+     "14-12-2019",
+     "31-12-2019",
+     "11-01-2020",
+     "18-01-2020"
+    ]
+   },
+   {
+    "Name": "colorado-usa",
+    "Lat": "38.7251776",
+    "Lon": "-105.6077160",
+    "Dates": [
+     "23-01-2020"
+    ]
+   },
+   {
+    "Name": "milan-italy",
+    "Lat": "45.4641943",
+    "Lon": "9.1896346",
+    "Dates": [
+     "10-10-2020"
+    ]
+   },
+   {
+    "Name": "munich-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "07-10-2020"
+    ]
+   },
+   {
+    "Name": "vancouver-canada",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "06-12-2019"
+    ]
+   },
+   {
+    "Name": "oregon-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "05-12-2019"
+    ]
+   },
+   {
+    "Name": "prague-czechia",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "08-10-2020"
+    ]
+   }
+  ]
+ }
+]

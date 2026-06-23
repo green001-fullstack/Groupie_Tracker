@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artist Details</title>
+
+    <link rel="stylesheet" href="/static/artists.css">
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+</head>
+
+<body>
+
+    <div class="nav-container">
+        <div class="nav">
+            <h2>Trackwave</h2>
+            <div class="center-text">
+                <a href="#">Discover</a>
+                <a href="#">Artists</a>
+                <a href="#">Concert Maps</a>
+            </div>
+            <p>Explore</p>
+        </div>
+    </div>
+
+    <!-- CONTENT -->
+    <div class="container">
+
+        <div class="artist-container">
+
+            <!-- TOP DETAILS -->
+            <div class="hero">
+                <div class="hero-left">
+                    <img src="{{.Image}}" alt="{{.Name}}">
+                    <p>Active</p>
+                </div>
+
+                <div class="hero-right">
+                    <h2>artist profile</h2>
+                    <div class="artist-header">
+                        <h1>{{.Name}}</h1>
+                        <p class="sub">First Album: {{.FirstAlbum}}</p>
+                    </div>
+                    <div class="hero-stats">
+                        <div class="stat-chip">
+                            <div class="label">Since</div>
+                            <div class="value">{{.CreationDate}}</div>
+                        </div>
+                        <div class="stat-chip">
+                            <div class="label">Members</div>
+                            <div class="value">{{len .Members}}</div>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <h3>List of Members</h3>
+                        {{range .Members}}
+                        <span class="pill">{{.}}</span>
+                        {{end}}
+                    </div>
+                </div>
+            </div>
+
+            <section class="map-section">
+                <h2>Tour Map</h2>
+                <div id="map"></div>
+            </section>
+
+            <!-- CONCERT LOCATIONS -->
+            <div class="date-locations">
+
+                <h2>Concert Dates</h2>
+
+                <div class="locations-grid">
+
+                    {{range $key, $value := .DatesLocations}}
+
+                    <div class="location-card">
+                        <div class="card-header">
+                            <span></span>
+                            <h4>{{$key | formatLocation}}</h4>
+                        </div>
+                        <ul class="date-list">
+                            {{range $value}}
+                            <li>{{.}}</li>
+                            {{end}}
+                        </ul>
+
+                    </div>
+
+                    {{end}}
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+
+    <script>
+        var map = L.map('map').setView([20, 0], 2);
+        L.tileLayer('https://api.maptiler.com/maps/streets/{z}/{x}/{y}.png?key=aKlAyYKkGyU10AcPK4Ny', {
+            attribution: '&copy; MapTiler &copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        var locations = JSON.parse('{{.Locations}}')
+        console.log("locations:", locations);
+        locations.forEach(loc => {
+            lat = parseFloat(loc.Lat)
+            lon = parseFloat(loc.Lon)
+
+                L.marker([lat, lon])
+                    .addTo(map)
+                    .bindPopup(
+                        `<strong>${loc.Name}</strong><br>Date: ${loc.Date}`
+                    );
+        });
+    </script>
+</body>
+
+</html>

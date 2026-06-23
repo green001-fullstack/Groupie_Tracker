@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artists</title>
+    <link rel="stylesheet" href="/static/index.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+    <link
+        href="https://fonts.googleapis.com/css2?family=Syne:wght@700;800&family=Space+Mono:wght@400;700&family=Inter:wght@400;500;600&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+    <!-- navbar -->
+    <div class="nav-container">
+        <div class="nav-bar">
+            <h2 class="logo">TrackWave</h2>
+            <div class="nav-links">
+                <a href="#">Discover</a>
+                <a href="#">Artists</a>
+                <a href="#">Tour</a>
+            </div>
+            <div class="nav-status">
+                <span class="live-dot"></span>
+                <p>Updated Daily • 52 Artists</p>
+            </div>
+        </div>
+    </div>
+
+    <!-- hero section  -->
+    <div class="hero-section">
+        <div class="hero-text">
+            <h1>Track Legendary Artists Across <span class="green-subtext">The Globe</span></h1>
+            <p>Explore concert locations, members, albums and live tour history</p>
+        </div>
+        <div class="hero-images">
+            <div class="image-placeholder"></div>
+            <img class="image1" src="/static/images/Image3.png" alt="Artist Image 1">
+            <img class="image2" src="/static/images/Image4.jpg" alt="Artist Image 4">
+            <img class="image3" src="/static/images/Image6.jpg" alt="Artist Image 5">
+            <img class="image4" src="/static/images/Image5.jpg" alt="Artist Image 2">
+        </div>
+    </div>
+
+    <div class="container">
+
+        <div class="wave-divider">
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+            <span></span>
+        </div>
+
+        <!-- Main -->
+        <header class="header">
+
+            <h1 class="search-header">
+                Discover Artists by <span>name, location, or members</span>
+            </h1>
+            <p class="search-subtext">
+                Search through albums, tour history, and collaborations in seconds.
+            </p>
+
+            <div class="form">
+
+                <form class="search-form" action="/artist#grid" method="GET">
+                    <input class="input" type="text" name="query" placeholder="Search for an artist..."
+                        list="suggestions">
+                    <datalist id="suggestions">
+                        {{range .Artists}}
+                        <option value="{{.Name}}"></option>
+
+                        {{range .Members}}
+                        <option value="{{.}}"></option>
+                        {{end}}
+                        {{end}}
+                    </datalist>
+                    <button class="button" type="submit">Search</button>
+                </form>
+
+                <form class="filter" action="/artist#grid" method="GET">
+                    <input type="hidden" name="page" value="{{.PageNo}}">
+                    <input type="hidden" name="query" value="{{.Query}}">
+                    <select class="select" name="sort" onchange="this.form.submit()">
+                        <option value="">Filter artist by...</option>
+                        <option value="default">Default</option>
+                        <option value="ascending">Ascending</option>
+                        <option value="descending">Descending</option>
+                        <option value="oldest">Oldest</option>
+                        <option value="newest">Newest</option>
+                    </select>
+                </form>
+
+            </div>
+        </header>
+
+        <!-- Artists -->
+        <section class="artists-collection" id="grid">
+            <div class="artists-header">
+                <h2 class="list-text">List of Artists</h2>
+                <span></span>
+            </div>
+
+            {{if .Query}}
+            <div class="result-query">
+                <h3>
+                    Results for <span>"{{.Query}}"</span>
+                </h3>
+
+                <p>{{.TotalArtists}} Artists found</p>
+            </div>
+            {{end}}
+
+            <div class="artist-grid">
+                {{range .Artists}}
+                <div class="artist-card">
+                    <img src="{{.Image}}" alt="{{.Name}}">
+                    <h3>{{.Name}}</h3>
+                    <p><strong>First Album:</strong> {{.FirstAlbum}}</p>
+                    <a href="/singleArtists/{{.Id}}">Personal Details</a>
+                </div>
+                {{end}}
+            </div>
+        </section>
+
+        <section class="pagination">
+            <div class="pagination-container">
+                {{range .PageNumbers}}
+                <a class="pagButtons {{if eq . $.PageNo}}active{{end}}" href="/artist?page={{.}}&query={{$.Query}}#grid">{{.}}</a>
+                {{end}}
+            </div>
+        </section>
+
+    </div>
+
+</body>
+
+</html>

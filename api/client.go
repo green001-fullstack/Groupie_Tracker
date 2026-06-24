@@ -4,6 +4,7 @@ import(
 	"encoding/json"
 	"fmt"
 	"io"
+	"time"
 	"net/http"
 	"stage/models"
 	"stage/utils"
@@ -30,7 +31,9 @@ func (g *GeoCache)GeocodeLocation(location string) (models.Geolocation, error) {
 	}
 	req.Header.Set("User-Agent", "groupie-tracker-app")
 
-	client := &http.Client{}
+	client := &http.Client{
+		Timeout: 10 * time.Second,
+	}
 	resp, err := client.Do(req)
 	if err != nil {
 		return models.Geolocation{}, err

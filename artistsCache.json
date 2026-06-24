@@ -42,6 +42,54 @@
   },
   "Locations": [
    {
+    "Name": "penrose-new_zealand",
+    "Lat": "-36.9111443",
+    "Lon": "174.8147813",
+    "Dates": [
+     "07-02-2020"
+    ]
+   },
+   {
+    "Name": "los_angeles-usa",
+    "Lat": "52.5362296",
+    "Lon": "13.5688341",
+    "Dates": [
+     "20-08-2019"
+    ]
+   },
+   {
+    "Name": "osaka-japan",
+    "Lat": "40.7687251",
+    "Lon": "-111.8889466",
+    "Dates": [
+     "28-01-2020"
+    ]
+   },
+   {
+    "Name": "north_carolina-usa",
+    "Lat": "35.6729639",
+    "Lon": "-79.0392919",
+    "Dates": [
+     "23-08-2019"
+    ]
+   },
+   {
+    "Name": "nagoya-japan",
+    "Lat": "36.1251825",
+    "Lon": "-79.9046807",
+    "Dates": [
+     "30-01-2019"
+    ]
+   },
+   {
+    "Name": "dunedin-new_zealand",
+    "Lat": "-45.8740984",
+    "Lon": "170.5035755",
+    "Dates": [
+     "10-02-2020"
+    ]
+   },
+   {
     "Name": "saitama-japan",
     "Lat": "35.9754168",
     "Lon": "139.4160114",
@@ -55,54 +103,6 @@
     "Lon": "-83.1137366",
     "Dates": [
      "22-08-2019"
-    ]
-   },
-   {
-    "Name": "los_angeles-usa",
-    "Lat": "52.5362296",
-    "Lon": "13.5688341",
-    "Dates": [
-     "20-08-2019"
-    ]
-   },
-   {
-    "Name": "nagoya-japan",
-    "Lat": "36.1251825",
-    "Lon": "-79.9046807",
-    "Dates": [
-     "30-01-2019"
-    ]
-   },
-   {
-    "Name": "north_carolina-usa",
-    "Lat": "35.6729639",
-    "Lon": "-79.0392919",
-    "Dates": [
-     "23-08-2019"
-    ]
-   },
-   {
-    "Name": "penrose-new_zealand",
-    "Lat": "-36.9111443",
-    "Lon": "174.8147813",
-    "Dates": [
-     "07-02-2020"
-    ]
-   },
-   {
-    "Name": "osaka-japan",
-    "Lat": "40.7687251",
-    "Lon": "-111.8889466",
-    "Dates": [
-     "28-01-2020"
-    ]
-   },
-   {
-    "Name": "dunedin-new_zealand",
-    "Lat": "-45.8740984",
-    "Lon": "170.5035755",
-    "Dates": [
-     "10-02-2020"
     ]
    }
   ]
@@ -140,18 +140,6 @@
   },
   "Locations": [
    {
-    "Name": "playa_del_carmen-mexico",
-    "Lat": "20.6461095",
-    "Lon": "-87.0809021",
-    "Dates": [
-     "05-12-2019",
-     "06-12-2019",
-     "07-12-2019",
-     "08-12-2019",
-     "09-12-2019"
-    ]
-   },
-   {
     "Name": "noumea-new_caledonia",
     "Lat": "-22.2745264",
     "Lon": "166.4424190",
@@ -165,6 +153,18 @@
     "Lon": "-149.5659964",
     "Dates": [
      "16-11-2019"
+    ]
+   },
+   {
+    "Name": "playa_del_carmen-mexico",
+    "Lat": "20.6461095",
+    "Lon": "-87.0809021",
+    "Dates": [
+     "05-12-2019",
+     "06-12-2019",
+     "07-12-2019",
+     "08-12-2019",
+     "09-12-2019"
     ]
    }
   ]
@@ -212,19 +212,19 @@
   },
   "Locations": [
    {
-    "Name": "lyon-france",
-    "Lat": "45.7578137",
-    "Lon": "4.8320114",
-    "Dates": [
-     "23-09-1994"
-    ]
-   },
-   {
     "Name": "lausanne-switzerland",
     "Lat": "46.5218269",
     "Lon": "6.6327025",
     "Dates": [
      "25-09-1994"
+    ]
+   },
+   {
+    "Name": "lyon-france",
+    "Lat": "45.7578137",
+    "Lon": "4.8320114",
+    "Dates": [
+     "23-09-1994"
     ]
    },
    {
@@ -294,19 +294,11 @@
   },
   "Locations": [
    {
-    "Name": "budapest-hungary",
-    "Lat": "47.4813896",
-    "Lon": "19.1457723",
+    "Name": "bratislava-slovakia",
+    "Lat": "48.1516988",
+    "Lon": "17.1093063",
     "Dates": [
-     "18-11-2019"
-    ]
-   },
-   {
-    "Name": "minsk-belarus",
-    "Lat": "53.9024716",
-    "Lon": "27.5618225",
-    "Dates": [
-     "15-11-2019"
+     "20-11-2019"
     ]
    },
    {
@@ -318,6 +310,14 @@
     ]
    },
    {
+    "Name": "auckland-new_zealand",
+    "Lat": "-36.8520950",
+    "Lon": "174.7631803",
+    "Dates": [
+     "27-02-2020"
+    ]
+   },
+   {
     "Name": "yogyakarta-indonesia",
     "Lat": "-7.7953473",
     "Lon": "110.3672845",
@@ -326,19 +326,11 @@
     ]
    },
    {
-    "Name": "bratislava-slovakia",
-    "Lat": "48.1516988",
-    "Lon": "17.1093063",
+    "Name": "budapest-hungary",
+    "Lat": "47.4813896",
+    "Lon": "19.1457723",
     "Dates": [
-     "20-11-2019"
-    ]
-   },
-   {
-    "Name": "auckland-new_zealand",
-    "Lat": "-36.8520950",
-    "Lon": "174.7631803",
-    "Dates": [
-     "27-02-2020"
+     "18-11-2019"
     ]
    },
    {
@@ -350,9 +342,17 @@
     ]
    },
    {
+    "Name": "minsk-belarus",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-11-2019"
+    ]
+   },
+   {
     "Name": "queensland-australia",
-    "Lat": "-22.1646782",
-    "Lon": "144.5844903",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "24-02-2020"
     ]
@@ -386,17 +386,25 @@
   },
   "Locations": [
    {
+    "Name": "georgia-usa",
+    "Lat": "32.3293809",
+    "Lon": "-83.1137366",
+    "Dates": [
+     "01-08-2017"
+    ]
+   },
+   {
     "Name": "nevada-usa",
-    "Lat": "39.5158825",
-    "Lon": "-116.8537220",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "04-08-2017"
     ]
    },
    {
     "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "16-12-2017",
      "17-12-2017",
@@ -404,14 +412,6 @@
      "22-10-2017",
      "13-08-2017",
      "12-08-2017"
-    ]
-   },
-   {
-    "Name": "georgia-usa",
-    "Lat": "32.3293809",
-    "Lon": "-83.1137366",
-    "Dates": [
-     "01-08-2017"
     ]
    }
   ]
@@ -443,9 +443,19 @@
   },
   "Locations": [
    {
+    "Name": "san_isidro-argentina",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "16-03-2018",
+     "17-03-2018",
+     "18-03-2018"
+    ]
+   },
+   {
     "Name": "sao_paulo-brazil",
-    "Lat": "-23.5506507",
-    "Lon": "-46.6333824",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "23-03-2018",
      "24-03-2018",
@@ -454,21 +464,11 @@
    },
    {
     "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "28-04-2018",
      "29-04-2018"
-    ]
-   },
-   {
-    "Name": "san_isidro-argentina",
-    "Lat": "-34.4739792",
-    "Lon": "-58.5264866",
-    "Dates": [
-     "16-03-2018",
-     "17-03-2018",
-     "18-03-2018"
     ]
    }
   ]
@@ -500,25 +500,17 @@
   },
   "Locations": [
    {
-    "Name": "texas-usa",
-    "Lat": "31.2638905",
-    "Lon": "-98.5456116",
-    "Dates": [
-     "06-10-2019"
-    ]
-   },
-   {
     "Name": "arizona-usa",
-    "Lat": "34.3953420",
-    "Lon": "-111.7632750",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "08-10-2019"
     ]
    },
    {
     "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "19-10-2019",
      "18-10-2019",
@@ -526,6 +518,14 @@
      "15-10-2019",
      "12-10-2019",
      "11-10-2019"
+    ]
+   },
+   {
+    "Name": "texas-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "06-10-2019"
     ]
    }
   ]
@@ -574,16 +574,6 @@
   },
   "Locations": [
    {
-    "Name": "stockholm-sweden",
-    "Lat": "59.3251172",
-    "Lon": "18.0710935",
-    "Dates": [
-     "26-06-2020",
-     "27-06-2020",
-     "28-06-2020"
-    ]
-   },
-   {
     "Name": "georgia-usa",
     "Lat": "32.3293809",
     "Lon": "-83.1137366",
@@ -593,8 +583,8 @@
    },
    {
     "Name": "lisbon-portugal",
-    "Lat": "38.7077507",
-    "Lon": "-9.1365919",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "09-07-2020",
      "10-07-2020",
@@ -602,9 +592,19 @@
     ]
    },
    {
+    "Name": "stockholm-sweden",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "26-06-2020",
+     "27-06-2020",
+     "28-06-2020"
+    ]
+   },
+   {
     "Name": "bogota-colombia",
-    "Lat": "4.6533817",
-    "Lon": "-74.0836331",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "05-04-2019",
      "06-04-2019",
@@ -613,30 +613,30 @@
    },
    {
     "Name": "werchter-belgium",
-    "Lat": "50.9705840",
-    "Lon": "4.6937963",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "04-07-2020"
     ]
    },
    {
-    "Name": "bilbao-spain",
-    "Lat": "43.2630018",
-    "Lon": "-2.9350039",
-    "Dates": [
-     "09-07-2020",
-     "10-07-2020",
-     "11-07-2020"
-    ]
-   },
-   {
     "Name": "sao_paulo-brazil",
-    "Lat": "-23.5506507",
-    "Lon": "-46.6333824",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "05-04-2019",
      "06-04-2019",
      "07-04-2019"
+    ]
+   },
+   {
+    "Name": "bilbao-spain",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "09-07-2020",
+     "10-07-2020",
+     "11-07-2020"
     ]
    }
   ]
@@ -670,36 +670,36 @@
   },
   "Locations": [
    {
-    "Name": "aarhus-denmark",
-    "Lat": "56.1496278",
-    "Lon": "10.2134046",
+    "Name": "manchester-uk",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "12-06-2016"
+     "09-06-2016"
+    ]
+   },
+   {
+    "Name": "dusseldorf-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-06-2016"
     ]
    },
    {
     "Name": "new_york-usa",
-    "Lat": "40.7127281",
-    "Lon": "-74.0060152",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "14-09-2016",
      "11-09-2016"
     ]
    },
    {
-    "Name": "dusseldorf-germany",
-    "Lat": "51.2254018",
-    "Lon": "6.7763137",
+    "Name": "aarhus-denmark",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "15-06-2016"
-    ]
-   },
-   {
-    "Name": "manchester-uk",
-    "Lat": "53.4424618",
-    "Lon": "-2.2324547",
-    "Dates": [
-     "09-06-2016"
+     "12-06-2016"
     ]
    }
   ]
@@ -739,24 +739,32 @@
   "Locations": [
    {
     "Name": "werchter-belgium",
-    "Lat": "50.9705840",
-    "Lon": "4.6937963",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "02-07-2020"
     ]
    },
    {
+    "Name": "berlin-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-06-2020"
+    ]
+   },
+   {
     "Name": "frankfurt-germany",
-    "Lat": "50.1106444",
-    "Lon": "8.6820917",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "23-06-2020"
     ]
    },
    {
     "Name": "stockholm-sweden",
-    "Lat": "59.3251172",
-    "Lon": "18.0710935",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "26-06-2020",
      "27-06-2020",
@@ -764,17 +772,9 @@
     ]
    },
    {
-    "Name": "berlin-germany",
-    "Lat": "52.5173885",
-    "Lon": "13.3951309",
-    "Dates": [
-     "25-06-2020"
-    ]
-   },
-   {
     "Name": "copenhagen-denmark",
-    "Lat": "55.6867243",
-    "Lon": "12.5700724",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "29-06-2020"
     ]
@@ -810,42 +810,42 @@
   "Locations": [
    {
     "Name": "doha-qatar",
-    "Lat": "25.3108807",
-    "Lon": "51.5081812",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "15-12-2019"
     ]
    },
    {
-    "Name": "mumbai-india",
-    "Lat": "19.0549990",
-    "Lon": "72.8692035",
-    "Dates": [
-     "16-11-2019"
-    ]
-   },
-   {
-    "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
-    "Dates": [
-     "06-12-2019"
-    ]
-   },
-   {
     "Name": "illinois-usa",
-    "Lat": "40.0796606",
-    "Lon": "-89.4337288",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "07-12-2019"
     ]
    },
    {
     "Name": "minnesota-usa",
-    "Lat": "45.9896587",
-    "Lon": "-94.6113288",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "09-12-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "06-12-2019"
+    ]
+   },
+   {
+    "Name": "mumbai-india",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "16-11-2019"
     ]
    }
   ]
@@ -873,28 +873,28 @@
   },
   "Locations": [
    {
-    "Name": "pennsylvania-usa",
-    "Lat": "40.9699889",
-    "Lon": "-77.7278831",
-    "Dates": [
-     "03-09-2016",
-     "04-09-2016"
-    ]
-   },
-   {
     "Name": "new_york-usa",
-    "Lat": "40.7127281",
-    "Lon": "-74.0060152",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "24-09-2016"
     ]
    },
    {
     "Name": "abu_dhabi-united_arab_emirates",
-    "Lat": "24.4538352",
-    "Lon": "54.3774014",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "27-11-2016"
+    ]
+   },
+   {
+    "Name": "pennsylvania-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-09-2016",
+     "04-09-2016"
     ]
    }
   ]
@@ -926,26 +926,26 @@
   },
   "Locations": [
    {
-    "Name": "westcliff_on_sea-uk",
-    "Lat": "51.5428858",
-    "Lon": "0.6859213",
-    "Dates": [
-     "07-10-2012"
-    ]
-   },
-   {
     "Name": "merkers-germany",
-    "Lat": "50.8241612",
-    "Lon": "10.1176283",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "29-06-2012",
      "30-06-2012"
     ]
    },
    {
+    "Name": "westcliff_on_sea-uk",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "07-10-2012"
+    ]
+   },
+   {
     "Name": "illinois-usa",
-    "Lat": "40.0796606",
-    "Lon": "-89.4337288",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "06-09-2012"
     ]
@@ -974,27 +974,27 @@
   },
   "Locations": [
    {
+    "Name": "california-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "17-10-2019"
+    ]
+   },
+   {
     "Name": "nevada-usa",
-    "Lat": "39.5158825",
-    "Lon": "-116.8537220",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "19-10-2019"
     ]
    },
    {
     "Name": "arizona-usa",
-    "Lat": "34.3953420",
-    "Lon": "-111.7632750",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "18-10-2019"
-    ]
-   },
-   {
-    "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
-    "Dates": [
-     "17-10-2019"
     ]
    }
   ]
@@ -1025,14 +1025,6 @@
   },
   "Locations": [
    {
-    "Name": "new_york-usa",
-    "Lat": "40.7127281",
-    "Lon": "-74.0060152",
-    "Dates": [
-     "12-01-1995"
-    ]
-   },
-   {
     "Name": "london-uk",
     "Lat": "51.5074456",
     "Lon": "-0.1277653",
@@ -1043,10 +1035,18 @@
    },
    {
     "Name": "maine-usa",
-    "Lat": "45.7090970",
-    "Lon": "-68.8590201",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "17-04-1994"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "12-01-1995"
     ]
    }
   ]
@@ -1079,35 +1079,35 @@
   },
   "Locations": [
    {
-    "Name": "aarhus-denmark",
-    "Lat": "56.1496278",
-    "Lon": "10.2134046",
-    "Dates": [
-     "02-09-1970"
-    ]
-   },
-   {
     "Name": "berlin-germany",
-    "Lat": "52.5173885",
-    "Lon": "13.3951309",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "04-09-1970"
     ]
    },
    {
     "Name": "copenhagen-denmark",
-    "Lat": "55.6867243",
-    "Lon": "12.5700724",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "03-09-1970"
     ]
    },
    {
     "Name": "gothenburg-sweden",
-    "Lat": "57.7072326",
-    "Lon": "11.9670171",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "01-09-1970"
+    ]
+   },
+   {
+    "Name": "aarhus-denmark",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "02-09-1970"
     ]
    }
   ]
@@ -1146,16 +1146,16 @@
    },
    {
     "Name": "south_carolina-usa",
-    "Lat": "33.6874388",
-    "Lon": "-80.4363743",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "03-10-1979"
     ]
    },
    {
     "Name": "florida-usa",
-    "Lat": "27.7567667",
-    "Lon": "-81.4639835",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "05-10-1979",
      "04-10-1979"
@@ -1205,66 +1205,66 @@
   },
   "Locations": [
    {
-    "Name": "nimes-france",
-    "Lat": "43.8374249",
-    "Lon": "4.3600687",
-    "Dates": [
-     "01-07-2020"
-    ]
-   },
-   {
     "Name": "ostrava-czechia",
-    "Lat": "49.8349139",
-    "Lon": "18.2820084",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "04-12-2019"
     ]
    },
    {
+    "Name": "boulogne_billancourt-france",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "30-06-2020"
+    ]
+   },
+   {
     "Name": "pagney_derriere_barine-france",
-    "Lat": "48.6943000",
-    "Lon": "5.8447000",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "25-01-2020"
     ]
    },
    {
+    "Name": "freyming_merlebach-france",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "09-12-2019"
+    ]
+   },
+   {
     "Name": "sion-switzerland",
-    "Lat": "46.2311749",
-    "Lon": "7.3588795",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "08-07-2020",
      "09-07-2020"
     ]
    },
    {
-    "Name": "boulogne_billancourt-france",
-    "Lat": "48.8356649",
-    "Lon": "2.2402060",
-    "Dates": [
-     "30-06-2020"
-    ]
-   },
-   {
-    "Name": "freyming_merlebach-france",
-    "Lat": "49.1469437",
-    "Lon": "6.8184829",
-    "Dates": [
-     "09-12-2019"
-    ]
-   },
-   {
     "Name": "hamburg-germany",
-    "Lat": "53.5501721",
-    "Lon": "10.0013165",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "24-06-2020"
     ]
    },
    {
+    "Name": "nimes-france",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "01-07-2020"
+    ]
+   },
+   {
     "Name": "klagenfurt-austria",
-    "Lat": "46.6239430",
-    "Lon": "14.3075976",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "01-12-2019"
     ]
@@ -1311,9 +1311,25 @@
   },
   "Locations": [
    {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "15-07-2020"
+    ]
+   },
+   {
+    "Name": "manchester-uk",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "18-07-2020"
+    ]
+   },
+   {
     "Name": "nevada-usa",
-    "Lat": "39.5158825",
-    "Lon": "-116.8537220",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "29-01-2020",
      "31-01-2020",
@@ -1330,22 +1346,6 @@
      "30-05-2020",
      "02-06-2020",
      "04-06-2020"
-    ]
-   },
-   {
-    "Name": "london-uk",
-    "Lat": "51.5074456",
-    "Lon": "-0.1277653",
-    "Dates": [
-     "15-07-2020"
-    ]
-   },
-   {
-    "Name": "manchester-uk",
-    "Lat": "53.4424618",
-    "Lon": "-2.2324547",
-    "Dates": [
-     "18-07-2020"
     ]
    }
   ]
@@ -1378,17 +1378,9 @@
   },
   "Locations": [
    {
-    "Name": "zaragoza-spain",
-    "Lat": "41.6915847",
-    "Lon": "-0.9101268",
-    "Dates": [
-     "09-10-1992"
-    ]
-   },
-   {
     "Name": "barcelona-spain",
-    "Lat": "41.3825802",
-    "Lon": "2.1770730",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "04-10-1992",
      "03-10-1992",
@@ -1397,11 +1389,19 @@
    },
    {
     "Name": "madrid-spain",
-    "Lat": "40.4167820",
-    "Lon": "-3.7035070",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "07-10-1992",
      "06-10-1992"
+    ]
+   },
+   {
+    "Name": "zaragoza-spain",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "09-10-1992"
     ]
    }
   ]
@@ -1430,16 +1430,16 @@
   "Locations": [
    {
     "Name": "rio_de_janeiro-brazil",
-    "Lat": "-22.9110137",
-    "Lon": "-43.2093727",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "10-02-1996"
     ]
    },
    {
     "Name": "recife-brazil",
-    "Lat": "-8.0584933",
-    "Lon": "-34.8848193",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "28-12-1995"
     ]
@@ -1497,35 +1497,43 @@
   },
   "Locations": [
    {
+    "Name": "salem-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "16-08-2019"
+    ]
+   },
+   {
+    "Name": "amsterdam-netherlands",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "06-08-2019"
+    ]
+   },
+   {
     "Name": "cuxhaven-germany",
-    "Lat": "53.8687800",
-    "Lon": "8.6982860",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "19-07-2019"
     ]
    },
    {
-    "Name": "leipzig-germany",
-    "Lat": "51.3406321",
-    "Lon": "12.3747329",
+    "Name": "skanderborg-denmark",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "17-08-2019"
+     "08-08-2019"
     ]
    },
    {
-    "Name": "oulu-finland",
-    "Lat": "65.0117914",
-    "Lon": "25.4701973",
+    "Name": "burriana-spain",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "27-07-2019"
-    ]
-   },
-   {
-    "Name": "amsterdam-netherlands",
-    "Lat": "52.3730796",
-    "Lon": "4.8924534",
-    "Dates": [
-     "06-08-2019"
+     "03-08-2019"
     ]
    },
    {
@@ -1537,52 +1545,44 @@
     ]
    },
    {
-    "Name": "burriana-spain",
-    "Lat": "39.8876912",
-    "Lon": "-0.0846321",
+    "Name": "leipzig-germany",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "03-08-2019"
-    ]
-   },
-   {
-    "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
-    "Dates": [
-     "08-09-2019",
-     "07-09-2019"
-    ]
-   },
-   {
-    "Name": "monchengladbach-germany",
-    "Lat": "51.1947131",
-    "Lon": "6.4353792",
-    "Dates": [
-     "15-08-2019"
+     "17-08-2019"
     ]
    },
    {
     "Name": "napoca-romania",
-    "Lat": "46.7693790",
-    "Lon": "23.5899542",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "21-07-2019"
     ]
    },
    {
-    "Name": "salem-germany",
-    "Lat": "53.6563082",
-    "Lon": "10.8253152",
+    "Name": "monchengladbach-germany",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "16-08-2019"
+     "15-08-2019"
     ]
    },
    {
-    "Name": "skanderborg-denmark",
-    "Lat": "56.0351868",
-    "Lon": "9.9317878",
+    "Name": "oulu-finland",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "08-08-2019"
+     "27-07-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "08-09-2019",
+     "07-09-2019"
     ]
    }
   ]
@@ -1642,26 +1642,25 @@
   },
   "Locations": [
    {
-    "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
+    "Name": "quebec-canada",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "24-05-2019",
-     "26-05-2019"
+     "14-07-2019"
     ]
    },
    {
-    "Name": "lisbon-portugal",
-    "Lat": "38.7077507",
-    "Lon": "-9.1365919",
+    "Name": "canton-usa",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "04-09-2018"
+     "04-08-2019"
     ]
    },
    {
     "Name": "mexico_city-mexico",
-    "Lat": "19.3207722",
-    "Lon": "-99.1514678",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "17-11-2018",
      "18-10-2018"
@@ -1669,76 +1668,77 @@
    },
    {
     "Name": "rio_de_janeiro-brazil",
-    "Lat": "-22.9110137",
-    "Lon": "-43.2093727",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "27-09-2019"
     ]
    },
    {
-    "Name": "canton-usa",
-    "Lat": "40.7985464",
-    "Lon": "-81.3749508",
+    "Name": "california-usa",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "04-08-2019"
+     "24-05-2019",
+     "26-05-2019"
     ]
    },
    {
-    "Name": "del_mar-usa",
-    "Lat": "32.9594891",
-    "Lon": "-117.2653146",
+    "Name": "monterrey-mexico",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "22-09-2018"
+     "17-07-2018"
+    ]
+   },
+   {
+    "Name": "berlin-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "08-09-2018"
+    ]
+   },
+   {
+    "Name": "new_york-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-05-2019"
     ]
    },
    {
     "Name": "las_vegas-usa",
-    "Lat": "36.1674263",
-    "Lon": "-115.1484131",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "31-12-2018",
      "22-09-2018"
     ]
    },
    {
-    "Name": "monterrey-mexico",
-    "Lat": "25.6802019",
-    "Lon": "-100.3152580",
+    "Name": "lisbon-portugal",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "17-07-2018"
-    ]
-   },
-   {
-    "Name": "new_york-usa",
-    "Lat": "40.7127281",
-    "Lon": "-74.0060152",
-    "Dates": [
-     "25-05-2019"
-    ]
-   },
-   {
-    "Name": "quebec-canada",
-    "Lat": "52.4760892",
-    "Lon": "-71.8258668",
-    "Dates": [
-     "14-07-2019"
+     "04-09-2018"
     ]
    },
    {
     "Name": "riyadh-saudi_arabia",
-    "Lat": "24.6389160",
-    "Lon": "46.7160104",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "22-11-2019",
      "07-09-2019"
     ]
    },
    {
-    "Name": "berlin-germany",
-    "Lat": "52.5173885",
-    "Lon": "13.3951309",
+    "Name": "del_mar-usa",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "08-09-2018"
+     "22-09-2018"
     ]
    }
   ]
@@ -1784,74 +1784,74 @@
   "Locations": [
    {
     "Name": "amsterdam-netherlands",
-    "Lat": "52.3730796",
-    "Lon": "4.8924534",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "25-03-2019"
     ]
    },
    {
-    "Name": "copenhagen-denmark",
-    "Lat": "55.6867243",
-    "Lon": "12.5700724",
+    "Name": "birmingham-uk",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "01-05-2019"
+     "14-05-2019"
     ]
    },
    {
     "Name": "manchester-uk",
-    "Lat": "53.4424618",
-    "Lon": "-2.2324547",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "18-03-2019"
     ]
    },
    {
     "Name": "paris-france",
-    "Lat": "48.8588897",
-    "Lon": "2.3200410",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "07-03-2019"
     ]
    },
    {
-    "Name": "washington-usa",
-    "Lat": "38.8950982",
-    "Lon": "-77.0363849",
-    "Dates": [
-     "08-12-2018"
-    ]
-   },
-   {
-    "Name": "birmingham-uk",
-    "Lat": "52.4948994",
-    "Lon": "-1.8518439",
-    "Dates": [
-     "14-05-2019"
-    ]
-   },
-   {
-    "Name": "chicago-usa",
-    "Lat": "41.8755616",
-    "Lon": "-87.6244212",
-    "Dates": [
-     "30-05-2019"
-    ]
-   },
-   {
     "Name": "missouri-usa",
-    "Lat": "38.7604815",
-    "Lon": "-92.5617875",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "18-01-2019"
     ]
    },
    {
+    "Name": "chicago-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "30-05-2019"
+    ]
+   },
+   {
     "Name": "west_melbourne-australia",
-    "Lat": "-37.8087470",
-    "Lon": "144.9238207",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "29-11-2019"
+    ]
+   },
+   {
+    "Name": "copenhagen-denmark",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "01-05-2019"
+    ]
+   },
+   {
+    "Name": "washington-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "08-12-2018"
     ]
    }
   ]
@@ -1900,84 +1900,84 @@
   },
   "Locations": [
    {
-    "Name": "west_melbourne-australia",
-    "Lat": "-37.8087470",
-    "Lon": "144.9238207",
-    "Dates": [
-     "04-12-2019"
-    ]
-   },
-   {
-    "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
-    "Dates": [
-     "12-10-2019"
-    ]
-   },
-   {
-    "Name": "cleveland-usa",
-    "Lat": "41.4996574",
-    "Lon": "-81.6936772",
-    "Dates": [
-     "12-11-2019"
-    ]
-   },
-   {
-    "Name": "madison-usa",
-    "Lat": "43.0746900",
-    "Lon": "-89.3841663",
-    "Dates": [
-     "16-11-2019"
-    ]
-   },
-   {
-    "Name": "sydney-australia",
-    "Lat": "-33.8698439",
-    "Lon": "151.2082848",
-    "Dates": [
-     "02-12-2019"
-    ]
-   },
-   {
     "Name": "texas-usa",
-    "Lat": "31.2638905",
-    "Lon": "-98.5456116",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "19-10-2019",
      "18-10-2019"
     ]
    },
    {
+    "Name": "west_melbourne-australia",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "04-12-2019"
+    ]
+   },
+   {
+    "Name": "sydney-australia",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "02-12-2019"
+    ]
+   },
+   {
+    "Name": "cleveland-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "12-11-2019"
+    ]
+   },
+   {
+    "Name": "madison-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "16-11-2019"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "12-10-2019"
+    ]
+   },
+   {
+    "Name": "toronto-canada",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "13-11-2019"
+    ]
+   },
+   {
     "Name": "utah-usa",
-    "Lat": "39.4225192",
-    "Lon": "-111.7143580",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "15-10-2019"
     ]
    },
    {
     "Name": "boston-usa",
-    "Lat": "42.3588336",
-    "Lon": "-71.0578303",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "05-11-2019"
     ]
    },
    {
     "Name": "new_york-usa",
-    "Lat": "40.7127281",
-    "Lon": "-74.0060152",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "08-11-2019"
-    ]
-   },
-   {
-    "Name": "toronto-canada",
-    "Lat": "43.6534817",
-    "Lon": "-79.3839347",
-    "Dates": [
-     "13-11-2019"
     ]
    }
   ]
@@ -2038,66 +2038,33 @@
   },
   "Locations": [
    {
-    "Name": "warsaw-poland",
-    "Lat": "52.2333742",
-    "Lon": "21.0711489",
-    "Dates": [
-     "23-11-2019"
-    ]
-   },
-   {
     "Name": "berlin-germany",
-    "Lat": "52.5173885",
-    "Lon": "13.3951309",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "22-11-2019"
     ]
    },
    {
-    "Name": "cardiff-uk",
-    "Lat": "51.4816546",
-    "Lon": "-3.1791934",
+    "Name": "madrid-spain",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "11-03-2020"
-    ]
-   },
-   {
-    "Name": "manchester-uk",
-    "Lat": "53.4424618",
-    "Lon": "-2.2324547",
-    "Dates": [
-     "02-03-2020",
-     "03-03-2020"
-    ]
-   },
-   {
-    "Name": "paris-france",
-    "Lat": "48.8588897",
-    "Lon": "2.3200410",
-    "Dates": [
-     "25-11-2019"
+     "08-07-2020"
     ]
    },
    {
     "Name": "stockholm-sweden",
-    "Lat": "59.3251172",
-    "Lon": "18.0710935",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "26-06-2020"
     ]
    },
    {
-    "Name": "aberdeen-uk",
-    "Lat": "57.1482429",
-    "Lon": "-2.0928095",
-    "Dates": [
-     "15-03-2020"
-    ]
-   },
-   {
     "Name": "dublin-ireland",
-    "Lat": "53.3493795",
-    "Lon": "-6.2605593",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "08-03-2020",
      "09-03-2020",
@@ -2105,12 +2072,20 @@
     ]
    },
    {
-    "Name": "glasgow-uk",
-    "Lat": "55.8611550",
-    "Lon": "-4.2501687",
+    "Name": "paris-france",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "05-03-2020",
-     "06-03-2020"
+     "25-11-2019"
+    ]
+   },
+   {
+    "Name": "manchester-uk",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "02-03-2020",
+     "03-03-2020"
     ]
    },
    {
@@ -2125,19 +2100,44 @@
     ]
    },
    {
-    "Name": "madrid-spain",
-    "Lat": "40.4167820",
-    "Lon": "-3.7035070",
+    "Name": "glasgow-uk",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "08-07-2020"
+     "05-03-2020",
+     "06-03-2020"
+    ]
+   },
+   {
+    "Name": "aberdeen-uk",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-03-2020"
+    ]
+   },
+   {
+    "Name": "warsaw-poland",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "23-11-2019"
     ]
    },
    {
     "Name": "milan-italy",
-    "Lat": "45.4641943",
-    "Lon": "9.1896346",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "20-11-2019"
+    ]
+   },
+   {
+    "Name": "cardiff-uk",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-03-2020"
     ]
    }
   ]
@@ -2187,16 +2187,16 @@
   "Locations": [
    {
     "Name": "warsaw-poland",
-    "Lat": "52.2333742",
-    "Lon": "21.0711489",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "22-11-2019"
     ]
    },
    {
     "Name": "amsterdam-netherlands",
-    "Lat": "52.3730796",
-    "Lon": "4.8924534",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "07-11-2019"
     ]
@@ -2210,9 +2210,41 @@
     ]
    },
    {
+    "Name": "sochaux-france",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "20-11-2019"
+    ]
+   },
+   {
+    "Name": "eindhoven-netherlands",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "14-11-2019"
+    ]
+   },
+   {
+    "Name": "oslo-norway",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "10-11-2019"
+    ]
+   },
+   {
+    "Name": "michigan-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "16-01-2020"
+    ]
+   },
+   {
     "Name": "new_york-usa",
-    "Lat": "40.7127281",
-    "Lon": "-74.0060152",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "29-02-2020",
      "23-05-2020"
@@ -2220,48 +2252,16 @@
    },
    {
     "Name": "colorado-usa",
-    "Lat": "38.7251776",
-    "Lon": "-105.6077160",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "07-09-2020"
     ]
    },
    {
-    "Name": "sochaux-france",
-    "Lat": "47.5138641",
-    "Lon": "6.8305344",
-    "Dates": [
-     "20-11-2019"
-    ]
-   },
-   {
-    "Name": "oslo-norway",
-    "Lat": "59.9133301",
-    "Lon": "10.7389701",
-    "Dates": [
-     "10-11-2019"
-    ]
-   },
-   {
-    "Name": "eindhoven-netherlands",
-    "Lat": "51.4485569",
-    "Lon": "5.4501225",
-    "Dates": [
-     "14-11-2019"
-    ]
-   },
-   {
-    "Name": "michigan-usa",
-    "Lat": "43.6211955",
-    "Lon": "-84.6824346",
-    "Dates": [
-     "16-01-2020"
-    ]
-   },
-   {
     "Name": "new_hampshire-usa",
-    "Lat": "43.4849133",
-    "Lon": "-71.6553992",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "29-01-2020"
     ]
@@ -2323,66 +2323,33 @@
   },
   "Locations": [
    {
-    "Name": "michigan-usa",
-    "Lat": "43.6211955",
-    "Lon": "-84.6824346",
-    "Dates": [
-     "22-12-2019"
-    ]
-   },
-   {
-    "Name": "texas-usa",
-    "Lat": "31.2638905",
-    "Lon": "-98.5456116",
-    "Dates": [
-     "20-12-2019",
-     "23-11-2019"
-    ]
-   },
-   {
-    "Name": "toronto-canada",
-    "Lat": "43.6534817",
-    "Lon": "-79.3839347",
-    "Dates": [
-     "22-11-2019"
-    ]
-   },
-   {
     "Name": "new_york-usa",
-    "Lat": "40.7127281",
-    "Lon": "-74.0060152",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "29-11-2019"
     ]
    },
    {
-    "Name": "changzhou-china",
-    "Lat": "31.8122623",
-    "Lon": "119.9691539",
+    "Name": "sanya-china",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "27-12-2019"
+     "01-01-2020"
     ]
    },
    {
-    "Name": "colorado-usa",
-    "Lat": "38.7251776",
-    "Lon": "-105.6077160",
+    "Name": "hong_kong-china",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "07-09-2020"
-    ]
-   },
-   {
-    "Name": "seattle-usa",
-    "Lat": "47.6038321",
-    "Lon": "-122.3300620",
-    "Dates": [
-     "16-11-2019"
+     "29-12-2019"
     ]
    },
    {
     "Name": "jakarta-indonesia",
-    "Lat": "-6.1754049",
-    "Lon": "106.8271680",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "13-12-2019",
      "14-12-2019",
@@ -2390,43 +2357,76 @@
     ]
    },
    {
+    "Name": "michigan-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "22-12-2019"
+    ]
+   },
+   {
     "Name": "washington-usa",
-    "Lat": "38.8950982",
-    "Lon": "-77.0363849",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "30-11-2019"
     ]
    },
    {
-    "Name": "sanya-china",
-    "Lat": "18.2534658",
-    "Lon": "109.5034392",
+    "Name": "toronto-canada",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "01-01-2020"
+     "22-11-2019"
+    ]
+   },
+   {
+    "Name": "texas-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "20-12-2019",
+     "23-11-2019"
     ]
    },
    {
     "Name": "huizhou-china",
-    "Lat": "23.1125153",
-    "Lon": "114.4127007",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "15-12-2019"
     ]
    },
    {
-    "Name": "aalborg-denmark",
-    "Lat": "57.0462626",
-    "Lon": "9.9215263",
+    "Name": "seattle-usa",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "17-01-2020"
+     "16-11-2019"
     ]
    },
    {
-    "Name": "hong_kong-china",
-    "Lat": "22.3492155",
-    "Lon": "114.1857978",
+    "Name": "changzhou-china",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "29-12-2019"
+     "27-12-2019"
+    ]
+   },
+   {
+    "Name": "colorado-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "07-09-2020"
+    ]
+   },
+   {
+    "Name": "aalborg-denmark",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "17-01-2020"
     ]
    }
   ]
@@ -2489,99 +2489,35 @@
   },
   "Locations": [
    {
-    "Name": "washington-usa",
-    "Lat": "38.8950982",
-    "Lon": "-77.0363849",
-    "Dates": [
-     "27-02-2020"
-    ]
-   },
-   {
-    "Name": "hershey-usa",
-    "Lat": "40.2850285",
-    "Lon": "-76.6534662",
-    "Dates": [
-     "22-02-2020"
-    ]
-   },
-   {
-    "Name": "philadelphia-usa",
-    "Lat": "39.9527237",
-    "Lon": "-75.1635262",
-    "Dates": [
-     "21-02-2020"
-    ]
-   },
-   {
-    "Name": "toronto-usa",
-    "Lat": "41.9048584",
-    "Lon": "-90.8640346",
-    "Dates": [
-     "14-02-2020"
-    ]
-   },
-   {
-    "Name": "columbia-usa",
-    "Lat": "34.0007540",
-    "Lon": "-81.0352313",
-    "Dates": [
-     "29-02-2020"
-    ]
-   },
-   {
-    "Name": "rosemont-usa",
-    "Lat": "41.9941334",
-    "Lon": "-87.8756737",
-    "Dates": [
-     "11-02-2020"
-    ]
-   },
-   {
-    "Name": "kansas_city-usa",
-    "Lat": "39.1001050",
-    "Lon": "-94.5781416",
-    "Dates": [
-     "05-02-2020"
-    ]
-   },
-   {
-    "Name": "uniondale-usa",
-    "Lat": "40.7157545",
-    "Lon": "-73.5898872",
-    "Dates": [
-     "19-02-2020"
-    ]
-   },
-   {
     "Name": "st_louis-usa",
-    "Lat": "38.6254063",
-    "Lon": "-90.1900090",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "07-02-2020"
     ]
    },
    {
-    "Name": "pittsburgh-usa",
+    "Name": "hershey-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "24-02-2020"
+     "22-02-2020"
     ]
    },
    {
-    "Name": "indianapolis-usa",
+    "Name": "toronto-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "09-02-2020"
+     "14-02-2020"
     ]
    },
    {
-    "Name": "newark-usa",
+    "Name": "montreal-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "18-02-2020"
+     "16-02-2020"
     ]
    },
    {
@@ -2593,6 +2529,70 @@
     ]
    },
    {
+    "Name": "philadelphia-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "21-02-2020"
+    ]
+   },
+   {
+    "Name": "kansas_city-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "05-02-2020"
+    ]
+   },
+   {
+    "Name": "uniondale-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "19-02-2020"
+    ]
+   },
+   {
+    "Name": "rosemont-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-02-2020"
+    ]
+   },
+   {
+    "Name": "indianapolis-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "09-02-2020"
+    ]
+   },
+   {
+    "Name": "columbia-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-02-2020"
+    ]
+   },
+   {
+    "Name": "pittsburgh-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "24-02-2020"
+    ]
+   },
+   {
+    "Name": "washington-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "27-02-2020"
+    ]
+   },
+   {
     "Name": "omaha-usa",
     "Lat": "",
     "Lon": "",
@@ -2601,11 +2601,11 @@
     ]
    },
    {
-    "Name": "montreal-usa",
+    "Name": "newark-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "16-02-2020"
+     "18-02-2020"
     ]
    }
   ]
@@ -2655,11 +2655,11 @@
   },
   "Locations": [
    {
-    "Name": "philadelphia-usa",
-    "Lat": "39.9527237",
-    "Lon": "-75.1635262",
+    "Name": "los_angeles-usa",
+    "Lat": "52.5362296",
+    "Lon": "13.5688341",
     "Dates": [
-     "31-08-2019"
+     "24-11-2019"
     ]
    },
    {
@@ -2671,27 +2671,11 @@
     ]
    },
    {
-    "Name": "los_angeles-usa",
-    "Lat": "52.5362296",
-    "Lon": "13.5688341",
-    "Dates": [
-     "24-11-2019"
-    ]
-   },
-   {
-    "Name": "atlanta-usa",
+    "Name": "new_orleans-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "14-10-2019"
-    ]
-   },
-   {
-    "Name": "sao_paulo-brazil",
-    "Lat": "-23.5506507",
-    "Lon": "-46.6333824",
-    "Dates": [
-     "05-04-2020"
+     "07-10-2019"
     ]
    },
    {
@@ -2705,19 +2689,11 @@
     ]
    },
    {
-    "Name": "santiago-chile",
+    "Name": "sao_paulo-brazil",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "29-03-2020"
-    ]
-   },
-   {
-    "Name": "frauenfeld-switzerland",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "11-07-2019"
+     "05-04-2020"
     ]
    },
    {
@@ -2729,11 +2705,35 @@
     ]
    },
    {
-    "Name": "new_orleans-usa",
+    "Name": "frauenfeld-switzerland",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "07-10-2019"
+     "11-07-2019"
+    ]
+   },
+   {
+    "Name": "santiago-chile",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-03-2020"
+    ]
+   },
+   {
+    "Name": "philadelphia-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "31-08-2019"
+    ]
+   },
+   {
+    "Name": "atlanta-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "14-10-2019"
     ]
    }
   ]
@@ -2777,25 +2777,49 @@
   },
   "Locations": [
    {
-    "Name": "boston-usa",
-    "Lat": "42.3588336",
-    "Lon": "-71.0578303",
+    "Name": "montreal-canada",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "10-10-2018"
+     "05-10-2018"
+    ]
+   },
+   {
+    "Name": "toronto-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "04-10-2018"
+    ]
+   },
+   {
+    "Name": "washington-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "08-10-2018"
     ]
    },
    {
     "Name": "new_york-usa",
-    "Lat": "40.7127281",
-    "Lon": "-74.0060152",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "01-10-2018"
     ]
    },
    {
+    "Name": "philadelphia-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "06-10-2018"
+    ]
+   },
+   {
     "Name": "las_vegas-usa",
-    "Lat": "36.1674263",
-    "Lon": "-115.1484131",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "01-11-2019",
      "02-11-2019",
@@ -2803,35 +2827,11 @@
     ]
    },
    {
-    "Name": "toronto-usa",
-    "Lat": "41.9048584",
-    "Lon": "-90.8640346",
-    "Dates": [
-     "04-10-2018"
-    ]
-   },
-   {
-    "Name": "philadelphia-usa",
-    "Lat": "39.9527237",
-    "Lon": "-75.1635262",
-    "Dates": [
-     "06-10-2018"
-    ]
-   },
-   {
-    "Name": "washington-usa",
-    "Lat": "38.8950982",
-    "Lon": "-77.0363849",
-    "Dates": [
-     "08-10-2018"
-    ]
-   },
-   {
-    "Name": "montreal-canada",
+    "Name": "boston-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "05-10-2018"
+     "10-10-2018"
     ]
    },
    {
@@ -2893,22 +2893,6 @@
   },
   "Locations": [
    {
-    "Name": "berlin-germany",
-    "Lat": "52.5173885",
-    "Lon": "13.3951309",
-    "Dates": [
-     "25-06-2020"
-    ]
-   },
-   {
-    "Name": "stockholm-sweden",
-    "Lat": "59.3251172",
-    "Lon": "18.0710935",
-    "Dates": [
-     "29-06-2020"
-    ]
-   },
-   {
     "Name": "budapest-hungary",
     "Lat": "47.4813896",
     "Lon": "19.1457723",
@@ -2917,11 +2901,27 @@
     ]
    },
    {
-    "Name": "copenhagen-denmark",
-    "Lat": "55.6867243",
-    "Lon": "12.5700724",
+    "Name": "zurich-switzerland",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "02-07-2020"
+     "17-07-2020"
+    ]
+   },
+   {
+    "Name": "frankfurt-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "23-06-2020"
+    ]
+   },
+   {
+    "Name": "berlin-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-06-2020"
     ]
    },
    {
@@ -2933,19 +2933,19 @@
     ]
    },
    {
-    "Name": "frankfurt-germany",
-    "Lat": "50.1106444",
-    "Lon": "8.6820917",
-    "Dates": [
-     "23-06-2020"
-    ]
-   },
-   {
-    "Name": "krakow-poland",
+    "Name": "copenhagen-denmark",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "13-07-2020"
+     "02-07-2020"
+    ]
+   },
+   {
+    "Name": "stockholm-sweden",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-06-2020"
     ]
    },
    {
@@ -2957,11 +2957,11 @@
     ]
    },
    {
-    "Name": "zurich-switzerland",
+    "Name": "krakow-poland",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "17-07-2020"
+     "13-07-2020"
     ]
    },
    {
@@ -3006,30 +3006,6 @@
   },
   "Locations": [
    {
-    "Name": "paris-france",
-    "Lat": "48.8588897",
-    "Lon": "2.3200410",
-    "Dates": [
-     "31-03-2017"
-    ]
-   },
-   {
-    "Name": "philadelphia-usa",
-    "Lat": "39.9527237",
-    "Lon": "-75.1635262",
-    "Dates": [
-     "03-06-2017"
-    ]
-   },
-   {
-    "Name": "chicago-usa",
-    "Lat": "41.8755616",
-    "Lon": "-87.6244212",
-    "Dates": [
-     "17-03-2017"
-    ]
-   },
-   {
     "Name": "detroit-usa",
     "Lat": "",
     "Lon": "",
@@ -3038,11 +3014,11 @@
     ]
    },
    {
-    "Name": "amityville-usa",
+    "Name": "philadelphia-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "22-03-2017"
+     "03-06-2017"
     ]
    },
    {
@@ -3051,6 +3027,30 @@
     "Lon": "",
     "Dates": [
      "16-03-2017"
+    ]
+   },
+   {
+    "Name": "paris-france",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "31-03-2017"
+    ]
+   },
+   {
+    "Name": "chicago-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "17-03-2017"
+    ]
+   },
+   {
+    "Name": "amityville-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "22-03-2017"
     ]
    }
   ]
@@ -3106,27 +3106,43 @@
     ]
    },
    {
-    "Name": "madrid-spain",
-    "Lat": "40.4167820",
-    "Lon": "-3.7035070",
+    "Name": "inglewood-usa",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "04-06-2017"
+     "25-11-2017"
     ]
    },
    {
     "Name": "berlin-germany",
-    "Lat": "52.5173885",
-    "Lon": "13.3951309",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "03-06-2018"
     ]
    },
    {
     "Name": "chicago-usa",
-    "Lat": "41.8755616",
-    "Lon": "-87.6244212",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "06-03-2017"
+    ]
+   },
+   {
+    "Name": "madrid-spain",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "04-06-2017"
+    ]
+   },
+   {
+    "Name": "charlotte-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-09-2019"
     ]
    },
    {
@@ -3138,27 +3154,11 @@
     ]
    },
    {
-    "Name": "inglewood-usa",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "25-11-2017"
-    ]
-   },
-   {
     "Name": "oakland-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
      "21-11-2017"
-    ]
-   },
-   {
-    "Name": "charlotte-usa",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "25-09-2019"
     ]
    }
   ]
@@ -3200,30 +3200,6 @@
   },
   "Locations": [
    {
-    "Name": "birmingham-uk",
-    "Lat": "52.4948994",
-    "Lon": "-1.8518439",
-    "Dates": [
-     "25-06-1989"
-    ]
-   },
-   {
-    "Name": "chicago-usa",
-    "Lat": "41.8755616",
-    "Lon": "-87.6244212",
-    "Dates": [
-     "12-01-1989"
-    ]
-   },
-   {
-    "Name": "windsor-canada",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "03-09-2015"
-    ]
-   },
-   {
     "Name": "cincinnati-usa",
     "Lat": "",
     "Lon": "",
@@ -3240,11 +3216,35 @@
     ]
    },
    {
+    "Name": "birmingham-uk",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-06-1989"
+    ]
+   },
+   {
     "Name": "anaheim-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
      "24-03-1989"
+    ]
+   },
+   {
+    "Name": "windsor-canada",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-09-2015"
+    ]
+   },
+   {
+    "Name": "chicago-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "12-01-1989"
     ]
    }
   ]
@@ -3286,14 +3286,6 @@
   },
   "Locations": [
    {
-    "Name": "sydney-australia",
-    "Lat": "-33.8698439",
-    "Lon": "151.2082848",
-    "Dates": [
-     "22-11-2019"
-    ]
-   },
-   {
     "Name": "auckland-new_zealand",
     "Lat": "-36.8520950",
     "Lon": "174.7631803",
@@ -3303,8 +3295,8 @@
    },
    {
     "Name": "mumbai-india",
-    "Lat": "19.0549990",
-    "Lon": "72.8692035",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "15-12-2019"
     ]
@@ -3315,6 +3307,14 @@
     "Lon": "",
     "Dates": [
      "15-11-2019"
+    ]
+   },
+   {
+    "Name": "sydney-australia",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "22-11-2019"
     ]
    },
    {
@@ -3371,35 +3371,19 @@
   },
   "Locations": [
    {
-    "Name": "sao_paulo-brazil",
-    "Lat": "-23.5506507",
-    "Lon": "-46.6333824",
-    "Dates": [
-     "03-04-2019"
-    ]
-   },
-   {
     "Name": "bogota-colombia",
-    "Lat": "4.6533817",
-    "Lon": "-74.0836331",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "07-04-2019"
     ]
    },
    {
     "Name": "rio_de_janeiro-brazil",
-    "Lat": "-22.9110137",
-    "Lon": "-43.2093727",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "03-04-2019"
-    ]
-   },
-   {
-    "Name": "san_isidro-argentina",
-    "Lat": "-34.4739792",
-    "Lon": "-58.5264866",
-    "Dates": [
-     "29-03-2019"
     ]
    },
    {
@@ -3416,6 +3400,22 @@
     "Lon": "",
     "Dates": [
      "26-03-2019"
+    ]
+   },
+   {
+    "Name": "san_isidro-argentina",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-03-2019"
+    ]
+   },
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-04-2019"
     ]
    }
   ]
@@ -3454,27 +3454,19 @@
   },
   "Locations": [
    {
-    "Name": "glasgow-uk",
-    "Lat": "55.8611550",
-    "Lon": "-4.2501687",
-    "Dates": [
-     "24-06-2020"
-    ]
-   },
-   {
-    "Name": "paris-france",
-    "Lat": "48.8588897",
-    "Lon": "2.3200410",
-    "Dates": [
-     "13-06-2020"
-    ]
-   },
-   {
     "Name": "london-uk",
     "Lat": "51.5074456",
     "Lon": "-0.1277653",
     "Dates": [
      "26-06-2020"
+    ]
+   },
+   {
+    "Name": "vienna-austria",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "21-06-2020"
     ]
    },
    {
@@ -3486,11 +3478,19 @@
     ]
    },
    {
-    "Name": "vienna-austria",
+    "Name": "glasgow-uk",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "21-06-2020"
+     "24-06-2020"
+    ]
+   },
+   {
+    "Name": "paris-france",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "13-06-2020"
     ]
    },
    {
@@ -3533,35 +3533,11 @@
   },
   "Locations": [
    {
-    "Name": "chicago-usa",
-    "Lat": "41.8755616",
-    "Lon": "-87.6244212",
-    "Dates": [
-     "16-10-2018"
-    ]
-   },
-   {
-    "Name": "mexico_city-mexico",
-    "Lat": "19.3207722",
-    "Lon": "-99.1514678",
-    "Dates": [
-     "24-10-2018"
-    ]
-   },
-   {
     "Name": "philadelphia-usa",
-    "Lat": "39.9527237",
-    "Lon": "-75.1635262",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "11-10-2018"
-    ]
-   },
-   {
-    "Name": "boston-usa",
-    "Lat": "42.3588336",
-    "Lon": "-71.0578303",
-    "Dates": [
-     "13-10-2018"
     ]
    },
    {
@@ -3570,6 +3546,30 @@
     "Lon": "",
     "Dates": [
      "20-10-2018"
+    ]
+   },
+   {
+    "Name": "mexico_city-mexico",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "24-10-2018"
+    ]
+   },
+   {
+    "Name": "boston-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "13-10-2018"
+    ]
+   },
+   {
+    "Name": "chicago-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "16-10-2018"
     ]
    }
   ]
@@ -3614,6 +3614,15 @@
   },
   "Locations": [
    {
+    "Name": "london-uk",
+    "Lat": "51.5074456",
+    "Lon": "-0.1277653",
+    "Dates": [
+     "29-08-2020",
+     "30-08-2020"
+    ]
+   },
+   {
     "Name": "georgia-usa",
     "Lat": "32.3293809",
     "Lon": "-83.1137366",
@@ -3624,22 +3633,12 @@
     ]
    },
    {
-    "Name": "new_york-usa",
-    "Lat": "40.7127281",
-    "Lon": "-74.0060152",
+    "Name": "dallas-usa",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "15-02-2020",
-     "14-02-2020",
-     "18-02-2020"
-    ]
-   },
-   {
-    "Name": "london-uk",
-    "Lat": "51.5074456",
-    "Lon": "-0.1277653",
-    "Dates": [
-     "29-08-2020",
-     "30-08-2020"
+     "29-02-2020",
+     "01-03-2020"
     ]
    },
    {
@@ -3651,20 +3650,21 @@
     ]
    },
    {
+    "Name": "new_york-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-02-2020",
+     "14-02-2020",
+     "18-02-2020"
+    ]
+   },
+   {
     "Name": "berwyn-usa",
     "Lat": "",
     "Lon": "",
     "Dates": [
      "31-12-2019"
-    ]
-   },
-   {
-    "Name": "dallas-usa",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "29-02-2020",
-     "01-03-2020"
     ]
    }
   ]
@@ -3702,27 +3702,11 @@
   },
   "Locations": [
    {
-    "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
-    "Dates": [
-     "27-10-2017"
-    ]
-   },
-   {
     "Name": "london-uk",
     "Lat": "51.5074456",
     "Lon": "-0.1277653",
     "Dates": [
      "03-07-2017"
-    ]
-   },
-   {
-    "Name": "birmingham-uk",
-    "Lat": "52.4948994",
-    "Lon": "-1.8518439",
-    "Dates": [
-     "06-07-2017"
     ]
    },
    {
@@ -3739,6 +3723,22 @@
     "Lon": "",
     "Dates": [
      "02-07-2017"
+    ]
+   },
+   {
+    "Name": "birmingham-uk",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "06-07-2017"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "27-10-2017"
     ]
    }
   ]
@@ -3783,19 +3783,11 @@
   },
   "Locations": [
    {
-    "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
-    "Dates": [
-     "29-09-2019"
-    ]
-   },
-   {
-    "Name": "alabama-usa",
+    "Name": "athens-greece",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "15-05-2020"
+     "05-06-2020"
     ]
    },
    {
@@ -3807,11 +3799,35 @@
     ]
    },
    {
+    "Name": "florence-italy",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "13-06-2020"
+    ]
+   },
+   {
     "Name": "rio_de_janeiro-brazil",
-    "Lat": "-22.9110137",
-    "Lon": "-43.2093727",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "03-10-2019"
+    ]
+   },
+   {
+    "Name": "alabama-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "15-05-2020"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-09-2019"
     ]
    },
    {
@@ -3828,22 +3844,6 @@
     "Lon": "",
     "Dates": [
      "19-06-2020"
-    ]
-   },
-   {
-    "Name": "florence-italy",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "13-06-2020"
-    ]
-   },
-   {
-    "Name": "athens-greece",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "05-06-2020"
     ]
    }
   ]
@@ -3876,19 +3876,11 @@
   },
   "Locations": [
    {
-    "Name": "sydney-australia",
-    "Lat": "-33.8698439",
-    "Lon": "151.2082848",
+    "Name": "burswood-australia",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
-     "22-02-2019"
-    ]
-   },
-   {
-    "Name": "abu_dhabi-united_arab_emirates",
-    "Lat": "24.4538352",
-    "Lon": "54.3774014",
-    "Dates": [
-     "25-10-2019"
+     "27-02-2019"
     ]
    },
    {
@@ -3908,11 +3900,19 @@
     ]
    },
    {
-    "Name": "burswood-australia",
+    "Name": "sydney-australia",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "27-02-2019"
+     "22-02-2019"
+    ]
+   },
+   {
+    "Name": "abu_dhabi-united_arab_emirates",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "25-10-2019"
     ]
    }
   ]
@@ -3956,43 +3956,11 @@
   },
   "Locations": [
    {
-    "Name": "madrid-spain",
-    "Lat": "40.4167820",
-    "Lon": "-3.7035070",
-    "Dates": [
-     "30-10-2019"
-    ]
-   },
-   {
-    "Name": "hong_kong-china",
-    "Lat": "22.3492155",
-    "Lon": "114.1857978",
-    "Dates": [
-     "20-03-2020"
-    ]
-   },
-   {
     "Name": "los_angeles-usa",
     "Lat": "52.5362296",
     "Lon": "13.5688341",
     "Dates": [
      "24-11-2019"
-    ]
-   },
-   {
-    "Name": "bangkok-thailand",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "11-03-2020"
-    ]
-   },
-   {
-    "Name": "seville-spain",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "03-11-2019"
     ]
    },
    {
@@ -4004,11 +3972,11 @@
     ]
    },
    {
-    "Name": "manila-philippines",
+    "Name": "hong_kong-china",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "14-03-2020"
+     "20-03-2020"
     ]
    },
    {
@@ -4017,6 +3985,38 @@
     "Lon": "",
     "Dates": [
      "17-03-2020"
+    ]
+   },
+   {
+    "Name": "manila-philippines",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "14-03-2020"
+    ]
+   },
+   {
+    "Name": "madrid-spain",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "30-10-2019"
+    ]
+   },
+   {
+    "Name": "seville-spain",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-11-2019"
+    ]
+   },
+   {
+    "Name": "bangkok-thailand",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-03-2020"
     ]
    }
   ]
@@ -4063,9 +4063,26 @@
   },
   "Locations": [
    {
+    "Name": "munich-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "23-08-2019"
+    ]
+   },
+   {
+    "Name": "san_francisco-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "06-09-2019",
+     "08-09-2019"
+    ]
+   },
+   {
     "Name": "sao_paulo-brazil",
-    "Lat": "-23.5506507",
-    "Lon": "-46.6333824",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "25-04-2020"
     ]
@@ -4079,11 +4096,12 @@
     ]
    },
    {
-    "Name": "munich-germany",
+    "Name": "porto_alegre-brazil",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "23-08-2019"
+     "21-04-2020",
+     "23-04-2020"
     ]
    },
    {
@@ -4095,21 +4113,11 @@
     ]
    },
    {
-    "Name": "san_francisco-usa",
+    "Name": "buenos_aires-argentina",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "06-09-2019",
-     "08-09-2019"
-    ]
-   },
-   {
-    "Name": "porto_alegre-brazil",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "21-04-2020",
-     "23-04-2020"
+     "18-04-2020"
     ]
    },
    {
@@ -4118,14 +4126,6 @@
     "Lon": "",
     "Dates": [
      "27-04-2020"
-    ]
-   },
-   {
-    "Name": "buenos_aires-argentina",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "18-04-2020"
     ]
    }
   ]
@@ -4163,36 +4163,11 @@
   },
   "Locations": [
    {
-    "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
-    "Dates": [
-     "08-10-2017"
-    ]
-   },
-   {
-    "Name": "sao_paulo-brazil",
-    "Lat": "-23.5506507",
-    "Lon": "-46.6333824",
-    "Dates": [
-     "07-11-2017",
-     "08-11-2017"
-    ]
-   },
-   {
     "Name": "london-uk",
     "Lat": "51.5074456",
     "Lon": "-0.1277653",
     "Dates": [
      "25-11-2019"
-    ]
-   },
-   {
-    "Name": "porto_alegre-brazil",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "11-11-2017"
     ]
    },
    {
@@ -4202,6 +4177,31 @@
     "Dates": [
      "14-11-2017",
      "15-11-2017"
+    ]
+   },
+   {
+    "Name": "california-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "08-10-2017"
+    ]
+   },
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "07-11-2017",
+     "08-11-2017"
+    ]
+   },
+   {
+    "Name": "porto_alegre-brazil",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-11-2017"
     ]
    }
   ]
@@ -4246,30 +4246,6 @@
   },
   "Locations": [
    {
-    "Name": "florida-usa",
-    "Lat": "27.7567667",
-    "Lon": "-81.4639835",
-    "Dates": [
-     "01-02-2020"
-    ]
-   },
-   {
-    "Name": "sao_paulo-brazil",
-    "Lat": "-23.5506507",
-    "Lon": "-46.6333824",
-    "Dates": [
-     "01-03-2020"
-    ]
-   },
-   {
-    "Name": "mexico_city-mexico",
-    "Lat": "19.3207722",
-    "Lon": "-99.1514678",
-    "Dates": [
-     "23-02-2020"
-    ]
-   },
-   {
     "Name": "dubai-united_arab_emirates",
     "Lat": "",
     "Lon": "",
@@ -4278,11 +4254,27 @@
     ]
    },
    {
-    "Name": "willemstad-netherlands_antilles",
+    "Name": "brasilia-brazil",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "29-08-2019"
+     "03-03-2020"
+    ]
+   },
+   {
+    "Name": "florida-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "01-02-2020"
+    ]
+   },
+   {
+    "Name": "sao_paulo-brazil",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "01-03-2020"
     ]
    },
    {
@@ -4294,11 +4286,19 @@
     ]
    },
    {
-    "Name": "brasilia-brazil",
+    "Name": "mexico_city-mexico",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "03-03-2020"
+     "23-02-2020"
+    ]
+   },
+   {
+    "Name": "willemstad-netherlands_antilles",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "29-08-2019"
     ]
    }
   ]
@@ -4341,25 +4341,41 @@
   },
   "Locations": [
    {
-    "Name": "texas-usa",
-    "Lat": "31.2638905",
-    "Lon": "-98.5456116",
-    "Dates": [
-     "08-11-2019"
-    ]
-   },
-   {
     "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "08-12-2019"
     ]
    },
    {
+    "Name": "texas-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "08-11-2019"
+    ]
+   },
+   {
+    "Name": "oklahoma-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "09-11-2019"
+    ]
+   },
+   {
+    "Name": "arras-france",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-07-2020"
+    ]
+   },
+   {
     "Name": "illinois-usa",
-    "Lat": "40.0796606",
-    "Lon": "-89.4337288",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "13-12-2019"
     ]
@@ -4381,27 +4397,11 @@
     ]
    },
    {
-    "Name": "oklahoma-usa",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "09-11-2019"
-    ]
-   },
-   {
     "Name": "gdynia-poland",
     "Lat": "",
     "Lon": "",
     "Dates": [
      "01-07-2020"
-    ]
-   },
-   {
-    "Name": "arras-france",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "03-07-2020"
     ]
    }
   ]
@@ -4435,32 +4435,32 @@
   "Locations": [
    {
     "Name": "florida-usa",
-    "Lat": "27.7567667",
-    "Lon": "-81.4639835",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "31-08-2020"
     ]
    },
    {
     "Name": "washington-usa",
-    "Lat": "38.8950982",
-    "Lon": "-77.0363849",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "14-08-2019"
     ]
    },
    {
     "Name": "arizona-usa",
-    "Lat": "34.3953420",
-    "Lon": "-111.7632750",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "26-08-2019"
     ]
    },
    {
     "Name": "california-usa",
-    "Lat": "36.7014631",
-    "Lon": "-118.7559970",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "22-08-2019"
     ]
@@ -4497,27 +4497,19 @@
   },
   "Locations": [
    {
-    "Name": "sao_paulo-brazil",
-    "Lat": "-23.5506507",
-    "Lon": "-46.6333824",
-    "Dates": [
-     "09-10-2019"
-    ]
-   },
-   {
-    "Name": "mexico_city-mexico",
-    "Lat": "19.3207722",
-    "Lon": "-99.1514678",
-    "Dates": [
-     "03-10-2019"
-    ]
-   },
-   {
     "Name": "santiago-chile",
     "Lat": "",
     "Lon": "",
     "Dates": [
      "13-10-2019"
+    ]
+   },
+   {
+    "Name": "buenos_aires-argentina",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "11-10-2019"
     ]
    },
    {
@@ -4529,11 +4521,19 @@
     ]
    },
    {
-    "Name": "buenos_aires-argentina",
+    "Name": "sao_paulo-brazil",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "11-10-2019"
+     "09-10-2019"
+    ]
+   },
+   {
+    "Name": "mexico_city-mexico",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "03-10-2019"
     ]
    }
   ]
@@ -4577,43 +4577,35 @@
   },
   "Locations": [
    {
-    "Name": "lisbon-portugal",
-    "Lat": "38.7077507",
-    "Lon": "-9.1365919",
-    "Dates": [
-     "20-06-2020"
-    ]
-   },
-   {
-    "Name": "milan-italy",
-    "Lat": "45.4641943",
-    "Lon": "9.1896346",
-    "Dates": [
-     "14-06-2020"
-    ]
-   },
-   {
-    "Name": "nevada-usa",
-    "Lat": "39.5158825",
-    "Lon": "-116.8537220",
-    "Dates": [
-     "06-12-2019"
-    ]
-   },
-   {
-    "Name": "bogota-colombia",
-    "Lat": "4.6533817",
-    "Lon": "-74.0836331",
-    "Dates": [
-     "01-10-2019"
-    ]
-   },
-   {
     "Name": "nickelsdorf-austria",
     "Lat": "",
     "Lon": "",
     "Dates": [
      "10-06-2020"
+    ]
+   },
+   {
+    "Name": "bogota-colombia",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "01-10-2019"
+    ]
+   },
+   {
+    "Name": "san_jose-costa_rica",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "04-10-2019"
+    ]
+   },
+   {
+    "Name": "lisbon-portugal",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "20-06-2020"
     ]
    },
    {
@@ -4625,11 +4617,19 @@
     ]
    },
    {
-    "Name": "san_jose-costa_rica",
+    "Name": "milan-italy",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "04-10-2019"
+     "14-06-2020"
+    ]
+   },
+   {
+    "Name": "nevada-usa",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "06-12-2019"
     ]
    }
   ]
@@ -4675,9 +4675,25 @@
   },
   "Locations": [
    {
+    "Name": "munich-germany",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "07-10-2020"
+    ]
+   },
+   {
+    "Name": "milan-italy",
+    "Lat": "",
+    "Lon": "",
+    "Dates": [
+     "10-10-2020"
+    ]
+   },
+   {
     "Name": "nevada-usa",
-    "Lat": "39.5158825",
-    "Lon": "-116.8537220",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "07-12-2019",
      "14-12-2019",
@@ -4688,26 +4704,18 @@
    },
    {
     "Name": "colorado-usa",
-    "Lat": "38.7251776",
-    "Lon": "-105.6077160",
+    "Lat": "",
+    "Lon": "",
     "Dates": [
      "23-01-2020"
     ]
    },
    {
-    "Name": "milan-italy",
-    "Lat": "45.4641943",
-    "Lon": "9.1896346",
-    "Dates": [
-     "10-10-2020"
-    ]
-   },
-   {
-    "Name": "munich-germany",
+    "Name": "prague-czechia",
     "Lat": "",
     "Lon": "",
     "Dates": [
-     "07-10-2020"
+     "08-10-2020"
     ]
    },
    {
@@ -4724,14 +4732,6 @@
     "Lon": "",
     "Dates": [
      "05-12-2019"
-    ]
-   },
-   {
-    "Name": "prague-czechia",
-    "Lat": "",
-    "Lon": "",
-    "Dates": [
-     "08-10-2020"
     ]
    }
   ]

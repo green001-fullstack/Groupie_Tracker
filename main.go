@@ -1,8 +1,11 @@
 package main
 
 import (
+	"context"
 	"log"
 	"net/http"
+	"os"
+	"os/signal"
 	"stage/api"
 	"stage/handlers"
 	"stage/service"
@@ -17,7 +20,7 @@ func main() {
 	if err != nil {
 		log.Println("No geo cache found")
 	}
-	
+
 	cache := api.NewArtistCache(geoCache)
 	err = cache.LoadArtistsFromFile()
 	if err != nil {
@@ -38,7 +41,9 @@ func main() {
 		Service: artistService,
 	}
 
-	go func() {
+	workerCtx, stopWorker := context.WithCancel(context.Background())
+
+	go func(ctx context.Context) {
 		for {
 			log.Println("Refreshing artist cache in background...")
 
@@ -49,17 +54,46 @@ func main() {
 				log.Println("Background cache updated successfully")
 			}
 
-			time.Sleep(24 * time.Hour)
+			select{
+			case <- ctx.Done():
+			case <- time.After(24 * time.Hour):
+			}
+			
 		}
-	}()
+	}(workerCtx)
+
+	sigChan := make(chan os.Signal, 1)
+	signal.Notify(sigChan, os.Interrupt)
+
+	srv := &http.Server{
+		Addr: ":8001",
+	}
 
 	http.Handle("/static/", http.StripPrefix("/static/", http.FileServer(http.Dir("static"))))
 	http.HandleFunc("/", handlers.HomeHandler)
 	http.HandleFunc("/artist", h.ArtistsHandler)
 	http.HandleFunc("/singleArtists/", s.SingleArtistHandler)
-	log.Println("Server currently running on port:http://localhost:8001")
-	err = http.ListenAndServe(":8001", nil)
+
+	go func() {
+		log.Println("Server currently running on port:http://localhost:8001")
+		err := srv.ListenAndServe()
+		if err != nil && err != http.ErrServerClosed{
+			log.Fatal(err)
+		}
+	}()
+
+	<-sigChan
+	log.Println("Shutdown signal received")
+
+	ctx, cancel := context.WithTimeout(context.Background(), 5*time.Second)
+	defer cancel()
+
+	stopWorker()
+
+	err = srv.Shutdown(ctx)
 	if err != nil {
-		log.Fatal(err)
+		log.Println(err)
 	}
+	log.Println("Server shutdown complete")
+
 }

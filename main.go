@@ -9,8 +9,8 @@ import (
 	"stage/api"
 	"stage/handlers"
 	"stage/service"
-	"time"
 	"sync"
+	"time"
 )
 
 func main() {
@@ -53,8 +53,9 @@ func main() {
 			select{
 			case <- ctx.Done():
 				return
-			case <- time.After(24 * time.Hour):
+			case	<- time.After(24 * time.Hour):
 			}
+			
 			log.Println("Refreshing artist cache in background...")
 
 			err := cache.Refresh()
@@ -64,7 +65,6 @@ func main() {
 				log.Println("Background cache updated successfully")
 			}
 
-			
 		}
 	}(workerCtx)
 
@@ -83,7 +83,7 @@ func main() {
 	go func() {
 		log.Println("Server currently running on port:http://localhost:8001")
 		err := srv.ListenAndServe()
-		if err != nil && err != http.ErrServerClosed{
+		if err != nil && err != http.ErrServerClosed {
 			log.Fatal(err)
 		}
 	}()
@@ -98,9 +98,9 @@ func main() {
 
 	err = srv.Shutdown(ctx)
 	if err != nil {
-		log.Println(err)
+		log.Println(ctx.Err())
 	}
-	
+
 	wg.Wait()
 
 	log.Println("Server shutdown complete")

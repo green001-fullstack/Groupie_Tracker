@@ -10,6 +10,7 @@ import (
 	"stage/handlers"
 	"stage/service"
 	"time"
+	"sync"
 )
 
 func main() {
@@ -41,10 +42,19 @@ func main() {
 		Service: artistService,
 	}
 
+	var wg sync.WaitGroup
+
 	workerCtx, stopWorker := context.WithCancel(context.Background())
 
+	wg.Add(1)
 	go func(ctx context.Context) {
+		defer wg.Done()
 		for {
+			select{
+			case <- ctx.Done():
+				return
+			case <- time.After(24 * time.Hour):
+			}
 			log.Println("Refreshing artist cache in background...")
 
 			err := cache.Refresh()
@@ -54,10 +64,6 @@ func main() {
 				log.Println("Background cache updated successfully")
 			}
 
-			select{
-			case <- ctx.Done():
-			case <- time.After(24 * time.Hour):
-			}
 			
 		}
 	}(workerCtx)
@@ -94,6 +100,8 @@ func main() {
 	if err != nil {
 		log.Println(err)
 	}
-	log.Println("Server shutdown complete")
+	
+	wg.Wait()
 
+	log.Println("Server shutdown complete")
 }
